@@ -1,0 +1,2181 @@
+SST EDUCATION TRUST
+COMPLETE WEBSITE CONTENT PACKAGE
+Education-focused public charitable trust | Andhra Pradesh, India
+
+Tagline: Learn. Build. Grow.
+Alternative tagline: Empowering People Through Education and Technology.
+
+IMPORTANT BEFORE PUBLICATION
+This document is a comprehensive website content draft. It is not a confirmation that the Trust is registered, approved, accredited, eligible for tax benefits, or currently operating. Replace every bracketed placeholder with verified information. Remove statements about activities that have not been approved or cannot yet be delivered. Have the final website and policies reviewed by an Indian lawyer/accountant familiar with public charitable trusts, education activities, donations, privacy, and applicable Andhra Pradesh requirements.
+
+PLACEHOLDER CONVENTION
+Anything in square brackets, for example [Official Email Address], must be completed or removed before publication. Proposed programs, planned activities, and illustrative durations are not promises of availability. Publish only verified details.
+
+============================================================
+1. WEBSITE IDENTITY AND NAVIGATION
+============================================================
+
+Organization display name:
+SST Education Trust
+
+Suggested tagline:
+Learn. Build. Grow.
+
+Brand positioning:
+An education-focused public charitable trust working to promote accessible education, technology awareness, practical skill development, digital literacy, and lifelong learning.
+
+Suggested navigation:
+- Home
+- About Us
+- Mission, Vision & Objectives
+- Courses & Programs
+- Free Education
+- Scholarships
+- Boot Camps & Workshops
+- Our Impact
+- Trainers [publish when verified]
+- Learning Resources [publish when ready]
+- Get Involved
+- Partnerships
+- Support Education [publish only when legally and operationally ready to receive contributions]
+- FAQs
+- Contact Us
+
+Suggested footer links:
+- Privacy Notice
+- Website Terms and Conditions
+- Enrollment, Cancellation & Refund Policy
+- Donation and Contribution Policy [only if contributions are being accepted]
+- Learner Code of Conduct
+- Grievance Contact [insert verified details]
+- Accessibility Statement [if prepared]
+- [Registered Legal Name]
+- [Registered Address]
+- [Official Email Address]
+- [Official Contact Number]
+
+Domain ideas to check (availability and trademark clearance not verified):
+- ssteducationtrust.org
+- ssteducationtrust.in
+- ssteducation.in
+
+Brand and logo note:
+Use a simple, accessible logo concept combining an open book, graduation cap, or connected learning nodes. Check trademark availability before adopting any logo or name. Do not imply government or university affiliation.
+
+============================================================
+2. HOME PAGE
+============================================================
+
+PAGE TITLE:
+SST Education Trust | Technology Education & Skill Development
+
+META DESCRIPTION:
+SST Education Trust aims to promote accessible education, technology training, practical skill development, and lifelong learning in Andhra Pradesh, India.
+
+HERO HEADLINE:
+Empowering People Through Education and Technology
+
+HERO COPY:
+We believe education has the power to transform lives, strengthen communities, and create opportunities for a better future.
+
+SST Education Trust aims to promote accessible education, technology awareness, practical skill development, and lifelong learning. Our goal is to help learners build knowledge, develop confidence, and acquire skills that enable them to participate meaningfully in an increasingly digital world.
+
+From programming and artificial intelligence to web development and cloud computing, we aim to make technology education practical, inclusive, and accessible to learners at different stages of life.
+
+Learn. Build. Grow.
+
+BUTTONS:
+[Explore Our Courses]
+[Join a Program]
+[Contact Us]
+[Support Our Mission — display only when approved contribution arrangements are ready]
+
+SECTION: EDUCATION FOR EVERYONE
+Every learner deserves an opportunity to explore their potential.
+
+We aim to create learning opportunities for school students, college students, graduates, job seekers, working professionals, educators, and anyone interested in developing new skills. Our educational activities will focus on accessible learning, practical knowledge, supportive mentorship, and continuous improvement.
+
+SECTION: WHAT WE DO
+
+Technology Education
+Promote learning in programming, artificial intelligence, software development, web technologies, cloud computing, and other relevant technology fields.
+
+Practical Training
+Encourage hands-on learning through coding exercises, demonstrations, guided projects, technical labs, and collaborative assignments.
+
+Boot Camps and Workshops
+Organize focused learning programs, technical workshops, coding sessions, seminars, and project-building activities as resources permit.
+
+Free and Affordable Learning
+Work toward expanding access to educational opportunities through free introductory workshops, need-based assistance, and affordable training where resources permit.
+
+Career and Skill Development
+Help learners strengthen problem-solving, communication, collaboration, project development, and technical interview preparation.
+
+SECTION: EXPLORE OUR LEARNING AREAS
+
+Artificial Intelligence and Generative AI
+Understand AI concepts, explore practical applications, and learn how to use AI responsibly.
+
+Programming and Software Development
+Build programming foundations with Python, Java, Go, and other relevant languages.
+
+Web Development
+Learn HTML, CSS, JavaScript, TypeScript, React.js, Angular, and application development fundamentals.
+
+Cloud Computing
+Explore Amazon Web Services (AWS), Microsoft Azure, Google Cloud, and cloud deployment fundamentals.
+
+DevOps and Software Delivery
+Discover version control, containers, CI/CD, deployment, monitoring, and development workflows.
+
+Digital Literacy and Career Readiness
+Develop essential digital skills, professional confidence, and practical problem-solving abilities.
+
+BUTTON: [Explore All Programs]
+
+SECTION: LEARN BY DOING
+We believe learning is most meaningful when learners can apply their knowledge.
+
+Our intended learning approach combines:
+- Clear explanations and strong fundamentals
+- Practical exercises and guided demonstrations
+- Assignments and project-based learning
+- Peer collaboration and knowledge sharing
+- Feedback and continuous improvement
+
+Each program will specify its curriculum, learning outcomes, prerequisites, schedule, and completion requirements.
+
+SECTION: FREE LEARNING. AFFORDABLE TRAINING. GREATER ACCESS.
+We aim to support education through a combination of free learning initiatives and structured paid programs.
+
+Free activities may include introductory workshops, educational awareness sessions, and selected community learning initiatives. Fees from designated training programs may support teaching, educational materials, software infrastructure, facilities, and program delivery, subject to the Trust's governing documents and applicable law.
+
+Where funding and eligibility permit, we aim to explore scholarships and learning assistance for individuals who face financial barriers.
+
+SECTION: OUR VISION FOR THE FUTURE
+We aspire to build a learning community where knowledge is shared, technology is used responsibly, and people from diverse backgrounds can develop skills that help them contribute to society.
+
+We will measure our progress through verified program records, learner participation, completed projects, educational activities, and other meaningful indicators.
+
+SECTION: BE PART OF THE LEARNING COMMUNITY
+You can contribute as a learner, volunteer, trainer, mentor, educational institution, professional, or supporter.
+
+Together, we can help create more opportunities to learn, practice, innovate, and grow.
+
+BUTTONS:
+[Join as a Learner]
+[Volunteer With Us]
+[Partner With Us]
+
+SECTION: START YOUR LEARNING JOURNEY
+Have questions about our educational programs or want to collaborate with us? Contact SST Education Trust to learn more about confirmed activities and opportunities.
+
+BUTTON: [Contact Us]
+
+FOOTER:
+SST Education Trust
+Learn. Build. Grow.
+[Official Email Address] | [City, Andhra Pradesh, India]
+[Registered Legal Name and registration details, only after verification]
+
+============================================================
+3. ABOUT US
+============================================================
+
+PAGE TITLE:
+About SST Education Trust
+
+HEADLINE:
+Building Opportunities Through Education
+
+SST Education Trust is an education-focused initiative based in Andhra Pradesh, India, dedicated to promoting accessible education, technology awareness, practical skill development, and lifelong learning.
+
+We believe education should help people understand the world, solve problems, develop confidence, and discover new possibilities.
+
+Our focus is on creating meaningful learning opportunities through technology training, educational workshops, boot camps, digital literacy initiatives, learning resources, and community engagement.
+
+We aim to support learners at different stages of their educational and professional journeys, whether they are beginning to explore technology or seeking to deepen existing skills.
+
+WHY SST EDUCATION TRUST?
+Technology is creating new opportunities across industries and communities. At the same time, many aspiring learners need better access to structured learning, practical experience, mentorship, and affordable educational resources.
+
+SST Education Trust aims to help address these challenges by bringing learning opportunities closer to people and encouraging a culture of curiosity, collaboration, and continuous development.
+
+Our approach emphasizes understanding concepts, practicing skills, applying knowledge, and sharing what we learn.
+
+OUR EDUCATIONAL PHILOSOPHY
+
+Knowledge
+We value strong foundations, clear explanations, and a willingness to learn.
+
+Practice
+We encourage learners to apply their knowledge through exercises, experiments, and projects.
+
+Opportunity
+We aim to reduce barriers to education through accessible programs and, where resources permit, financial assistance.
+
+Responsibility
+We promote ethical behavior, digital responsibility, privacy awareness, and the responsible use of technology.
+
+Community
+We believe educators, learners, professionals, volunteers, and institutions can create greater opportunities when they work together.
+
+OUR COMMITMENT
+We aim to conduct educational activities with integrity, respect, accountability, and a focus on learner development. We will communicate program details, fees, eligibility, and completion requirements clearly. We will publish information about activities and progress based on verified records.
+
+LEGAL IDENTITY
+Registered legal name: [Insert exact name appearing in the executed trust deed and official records]
+Trust registration number and authority: [Insert verified details, if applicable]
+Date of establishment/registration: [Insert verified date, if applicable]
+Registered office: [Insert verified address]
+Official contact: [Insert verified email and phone]
+
+Do not describe the Trust as registered, approved, accredited, tax-exempt, or eligible to receive tax-deductible donations unless the relevant status has been verified.
+
+============================================================
+4. MISSION, VISION AND OBJECTIVES
+============================================================
+
+OUR VISION
+To contribute to a society where everyone has the opportunity to access quality education, develop relevant skills, and use knowledge to improve their lives and contribute positively to the community.
+
+OUR MISSION
+To promote accessible, inclusive, and practical education through technology training, digital literacy, educational resources, workshops, mentorship, and community-based learning initiatives.
+
+OUR OBJECTIVES
+
+1. Promote Education
+Support educational opportunities, lifelong learning, and the development of knowledge and practical abilities.
+
+2. Advance Technology Education
+Promote learning in programming, artificial intelligence, software engineering, web development, cloud computing, databases, and related disciplines.
+
+3. Develop Practical Skills
+Encourage hands-on learning, project development, problem-solving, experimentation, and technical collaboration.
+
+4. Organize Educational Activities
+Conduct workshops, seminars, boot camps, coding sessions, awareness programs, and other educational activities, subject to the Trust's governing documents and applicable requirements.
+
+5. Expand Access to Learning
+Explore free programs, affordable courses, scholarships, and need-based educational assistance, subject to available resources and eligibility.
+
+6. Promote Digital Literacy
+Help learners develop the knowledge required to use digital tools, online resources, and technology responsibly.
+
+7. Encourage Innovation
+Promote creativity, research, technical exploration, and the responsible application of emerging technologies.
+
+8. Support Mentorship
+Encourage educators, professionals, and volunteers to contribute their experience and knowledge to learner development.
+
+9. Build Educational Partnerships
+Explore lawful collaborations with educational institutions, community organizations, professionals, and other suitable partners.
+
+10. Improve Career Readiness
+Support technical communication, teamwork, portfolio development, problem-solving, and career awareness.
+
+11. Develop Educational Resources
+Create and share learning materials, tutorials, practice exercises, project guides, and other educational resources.
+
+12. Promote Responsible Technology
+Encourage awareness of cybersecurity, privacy, accessibility, ethical AI, and responsible digital citizenship.
+
+13. Support Community Development
+Use educational initiatives to contribute positively to communities, particularly where access to learning opportunities is limited.
+
+14. Maintain Responsible Governance
+Manage the Trust's resources and activities in accordance with its executed governing documents and applicable laws, applying resources toward its approved purposes.
+
+These objectives must be consistent with the final trust deed and other governing documents. They do not replace legal drafting or registration requirements.
+
+============================================================
+5. COURSES AND PROGRAMS OVERVIEW
+============================================================
+
+PAGE TITLE:
+Courses and Programs
+
+HEADLINE:
+Learn Skills. Build Projects. Expand Your Opportunities.
+
+SST Education Trust aims to provide structured learning opportunities that help people understand technology, practice essential skills, and apply their knowledge through meaningful projects.
+
+Proposed program areas include programming, artificial intelligence, web development, cloud computing, software engineering, DevOps, digital literacy, and professional development.
+
+Programs will be offered according to trainer availability, learner demand, infrastructure, funding, and applicable requirements.
+
+LEARNING CATEGORIES
+
+Artificial Intelligence
+Explore AI fundamentals, machine learning, Generative AI, and AI application development.
+
+Programming
+Build programming skills with Python, Java, Go, and computer science fundamentals.
+
+Web Development
+Learn frontend technologies, modern JavaScript frameworks, APIs, and full-stack application development.
+
+Cloud Computing
+Explore AWS, Microsoft Azure, Google Cloud, and cloud deployment fundamentals.
+
+DevOps and Software Engineering
+Understand Git, Linux, Docker, CI/CD, testing, deployment, and application reliability.
+
+Digital Literacy
+Develop essential computer skills, online safety awareness, and digital productivity.
+
+WHO CAN PARTICIPATE?
+Programs may be designed for school students where appropriate, college students, recent graduates, beginners, job seekers, working professionals, educators, aspiring trainers, and lifelong learners. Each program will identify its intended audience, minimum age where applicable, prerequisites, and required equipment.
+
+LEARNING FORMATS
+- Introductory workshops
+- Structured courses
+- Technology boot camps
+- Project-based learning
+- Community learning
+- Career-readiness sessions
+
+COURSE INFORMATION
+Before enrollment, learners should be able to review the curriculum, intended audience, prerequisites, duration, delivery mode, schedule, fees, learning outcomes, and completion requirements.
+
+ENROLLMENT
+To express interest in a program, complete the relevant inquiry or enrollment form. Program availability and enrollment confirmation depend on the published schedule and available places.
+
+============================================================
+6. COURSE CATALOG: INDIVIDUAL COURSE CONTENT
+============================================================
+
+IMPORTANT:
+Durations below are planning suggestions only, not confirmed promises. Replace them with the actual course plan before publication. Set course fees, dates, prerequisites, delivery mode, trainer details, and certificate conditions only after confirmation.
+
+COURSE 1: PYTHON PROGRAMMING
+
+Suggested duration: 4–6 weeks [confirm before publishing]
+
+About:
+This course introduces learners to Python programming through structured instruction, practical exercises, and guided project work. Learners explore programming fundamentals and apply them to simple problems.
+
+Suggested topics:
+- Introduction to Python and development setup
+- Variables, data types, operators, and input/output
+- Conditions and loops
+- Functions and modules
+- Lists, tuples, dictionaries, and sets
+- Files and exception handling
+- Introduction to packages and testing
+- Project planning and implementation
+
+Project idea:
+Personal expense tracker or student record manager.
+
+Prerequisites:
+[Insert confirmed prerequisites, equipment and software requirements.]
+
+Learning outcomes:
+[Specify measurable outcomes that match the final syllabus.]
+
+Program details:
+Duration: [Confirmed duration]
+Schedule: [Confirmed schedule]
+Delivery: [Online / In person / Hybrid]
+Fee: [Confirmed fee]
+Trainer: [Verified trainer details]
+Certificate: [State whether offered and completion requirements]
+
+COURSE 2: JAVA PROGRAMMING
+
+Suggested duration: 6–8 weeks [confirm before publishing]
+
+About:
+Learn Java syntax, object-oriented programming, collections, exceptions, testing, and application development fundamentals.
+
+Suggested topics:
+- Java setup and language fundamentals
+- Variables, operators, conditions, and loops
+- Classes, objects, constructors, and methods
+- Encapsulation, inheritance, abstraction, and polymorphism
+- Collections and generics
+- Exceptions and file handling
+- Testing and debugging fundamentals
+- Application structure and project development
+
+Project idea:
+Library management application.
+
+Prerequisites:
+[Insert confirmed prerequisites.]
+
+Program details:
+Duration: [Confirmed duration]
+Schedule: [Confirmed schedule]
+Delivery: [Online / In person / Hybrid]
+Fee: [Confirmed fee]
+Trainer: [Verified trainer details]
+Certificate: [Confirmed details]
+
+COURSE 3: GO PROGRAMMING
+
+Suggested duration: 4–6 weeks [confirm before publishing]
+
+About:
+Explore Go syntax, structs, interfaces, error handling, testing, concurrency fundamentals, and HTTP services.
+
+Suggested topics:
+- Go setup and language fundamentals
+- Variables, types, functions, and control flow
+- Structs, methods, and interfaces
+- Slices, maps, and error handling
+- Packages and modules
+- Testing and debugging
+- Goroutines and channels fundamentals
+- HTTP services and APIs
+
+Project idea:
+REST API for a task-management service.
+
+Prerequisites and program details:
+[Insert confirmed prerequisites, schedule, duration, delivery, fees, trainer and certificate conditions.]
+
+COURSE 4: ARTIFICIAL INTELLIGENCE AND GENERATIVE AI
+
+Suggested duration: 4–8 weeks depending on track [confirm before publishing]
+
+About:
+Explore AI fundamentals, machine learning concepts, generative models, prompt design, practical AI applications, and responsible AI use.
+
+Possible tracks:
+- AI awareness for beginners
+- Generative AI tools and responsible use
+- Python for AI foundations
+- Introductory machine learning
+- AI application development
+
+Suggested topics:
+- AI terminology and common applications
+- Data, models, training, and evaluation at an introductory level
+- Generative AI and large language model concepts
+- Prompt design and evaluation
+- Using approved AI tools and APIs
+- Privacy, security, bias, limitations, and responsible use
+- Building and presenting a small project
+
+Project idea:
+Educational question-answering assistant using an approved AI service, with appropriate privacy safeguards.
+
+Prerequisites and program details:
+[Insert track-specific prerequisites, duration, tools, schedule, fees, trainer and certificate conditions.]
+
+COURSE 5: REACT.JS DEVELOPMENT
+
+Suggested duration: 4–6 weeks [confirm before publishing]
+
+About:
+Learn components, props, state, hooks, routing, API integration, forms, and frontend testing.
+
+Suggested topics:
+- JavaScript and React setup
+- Components, JSX, and props
+- State and event handling
+- Hooks and component lifecycle concepts
+- Routing and forms
+- API integration and loading/error states
+- Testing, accessibility, and deployment fundamentals
+
+Project idea:
+Responsive course registration portal.
+
+Prerequisites:
+[Confirm whether JavaScript, HTML and CSS knowledge is required.]
+
+Program details:
+[Insert confirmed duration, schedule, delivery mode, fee, trainer and certificate terms.]
+
+COURSE 6: ANGULAR DEVELOPMENT
+
+Suggested duration: 4–6 weeks [confirm before publishing]
+
+About:
+Explore TypeScript, components, templates, services, dependency injection, routing, forms, and HTTP integration.
+
+Suggested topics:
+- TypeScript fundamentals and Angular setup
+- Components, templates, and data binding
+- Services and dependency injection
+- Routing
+- Forms and validation
+- HTTP requests and API integration
+- Testing and application deployment fundamentals
+
+Project idea:
+Student attendance and course-management dashboard.
+
+Prerequisites:
+[Confirm HTML, CSS, JavaScript and TypeScript expectations.]
+
+Program details:
+[Insert confirmed duration, schedule, delivery mode, fee, trainer and certificate terms.]
+
+COURSE 7: AMAZON WEB SERVICES (AWS)
+
+Suggested duration: 4–6 weeks [confirm before publishing]
+
+About:
+Learn cloud concepts, identity and access management, compute, storage, networking, monitoring, security, and deployment fundamentals.
+
+Suggested topics:
+- Cloud computing concepts and shared responsibility
+- Identity and access management
+- Compute services
+- Storage services
+- Networking fundamentals
+- Application deployment
+- Monitoring, security and cost awareness
+- Practical cloud project
+
+Project idea:
+Deploy a simple web application with appropriate access controls and budget safeguards.
+
+Important:
+Cloud accounts and resources may incur charges. State who pays for cloud usage, any spending limits, and account-management arrangements before enrollment.
+
+Program details:
+[Insert confirmed duration, schedule, delivery mode, fees, trainer and certificate conditions.]
+
+COURSE 8: MICROSOFT AZURE
+
+Suggested duration: 4–6 weeks [confirm before publishing]
+
+About:
+Explore cloud infrastructure, resource management, identity, virtual networks, storage, application hosting, and monitoring.
+
+Suggested topics:
+- Cloud concepts and Azure environment
+- Identity and access fundamentals
+- Resource groups and resource management
+- Compute and application hosting
+- Storage and networking
+- Monitoring and security
+- Deployment project and cost awareness
+
+Project idea:
+Deploy and monitor a basic cloud-hosted application.
+
+Program details:
+[Insert confirmed duration, schedule, delivery mode, fees, trainer and certificate conditions.]
+
+COURSE 9: GOOGLE CLOUD
+
+Suggested duration: 4–6 weeks [confirm before publishing]
+
+About:
+Understand Google Cloud resources, IAM, compute, storage, networking, application deployment, and cloud operations.
+
+Suggested topics:
+- Cloud concepts and Google Cloud environment
+- IAM and access management
+- Compute and storage
+- Networking fundamentals
+- Application deployment
+- Monitoring and security
+- Cost management basics
+- Practical project
+
+Project idea:
+Host a simple application and configure monitoring.
+
+Program details:
+[Insert confirmed duration, schedule, delivery mode, fees, trainer and certificate conditions.]
+
+COURSE 10: DEVOPS AND CI/CD
+
+Suggested duration: 4–6 weeks [confirm before publishing]
+
+About:
+Study Git workflows, Linux, Docker, automated testing, CI/CD pipelines, deployment, monitoring, and operational fundamentals.
+
+Suggested topics:
+- Software delivery lifecycle
+- Git and collaboration workflows
+- Linux and command-line fundamentals
+- Containers and Docker
+- Automated testing
+- CI/CD pipeline concepts
+- Deployment, monitoring, and logging
+- Security and operational basics
+
+Project idea:
+Automate testing and deployment for a sample web application.
+
+Program details:
+[Insert confirmed prerequisites, duration, schedule, delivery, fee, trainer and certificate conditions.]
+
+COURSE 11: FRONTEND WEB DEVELOPMENT
+
+Suggested duration: 4–6 weeks [confirm before publishing]
+
+About:
+Build foundations in HTML, CSS, JavaScript, responsive design, accessibility, browser tools, and version control.
+
+Suggested topics:
+- How the web works
+- HTML structure and semantic markup
+- CSS layouts, responsive design and styling
+- JavaScript fundamentals and DOM
+- Forms and validation
+- Accessibility and browser developer tools
+- Git fundamentals
+- Website publishing and project review
+
+Project idea:
+Responsive personal portfolio website.
+
+Program details:
+[Insert confirmed prerequisites, duration, schedule, delivery, fee, trainer and certificate conditions.]
+
+COURSE 12: BACKEND AND FULL-STACK DEVELOPMENT
+
+Suggested duration: 8–12 weeks [confirm before publishing]
+
+About:
+Learn API design, server-side programming, SQL, authentication, testing, integration, and application deployment.
+
+Suggested topics:
+- Web application architecture
+- Backend language/framework: [Select and specify]
+- REST API design
+- SQL and database fundamentals
+- Authentication and authorization
+- Input validation and security basics
+- Testing and error handling
+- Frontend/backend integration
+- Deployment and project documentation
+
+Project idea:
+Complete course-management application.
+
+Program details:
+[Insert confirmed prerequisites, duration, schedule, delivery, fee, trainer and certificate conditions.]
+
+ADDITIONAL COURSE IDEAS
+Publish only when a curriculum and delivery plan are ready:
+- JavaScript and TypeScript
+- SQL and database fundamentals
+- Linux fundamentals
+- Git and GitHub
+- Data structures and algorithms
+- Machine learning with Python
+- Data analytics
+- Cybersecurity awareness and defensive fundamentals
+- Mobile application development
+- Software testing and quality assurance
+- API development
+- UI/UX and accessibility fundamentals
+
+============================================================
+7. SHARED COURSE PAGE TEMPLATE
+============================================================
+
+[Course Name]
+
+About This Course
+This program introduces learners to [technology or subject] through structured instruction, practical exercises, and guided project work. The course is designed to help participants understand essential concepts and apply them to relevant technical problems.
+
+Who Should Join?
+- Beginners interested in learning [subject]
+- Students and graduates developing technical skills
+- Professionals exploring a new technology
+- Learners seeking structured, practical learning
+
+Prerequisites
+[Insert confirmed prerequisite knowledge, equipment, software, age requirements where applicable, and required previous coursework.]
+
+Curriculum
+Module 1: Introduction and fundamentals
+Module 2: Core concepts and essential tools
+Module 3: Practical exercises and guided examples
+Module 4: Intermediate concepts and application
+Module 5: Project development and testing
+Module 6: Final project, review, and feedback
+Adjust modules to match the actual course.
+
+Learning Outcomes
+[Insert measurable outcomes that are supported by the curriculum.]
+
+Program Details
+Duration: [Confirmed duration]
+Schedule: [Confirmed schedule]
+Delivery: [Online / In person / Hybrid]
+Course fee: [Confirmed fee]
+Scholarships: [Availability and eligibility, if applicable]
+Trainer: [Verified trainer details]
+Certificate: [State whether offered and actual completion requirements]
+
+Enrollment
+Submit an inquiry to receive the confirmed batch schedule, curriculum, fee details, and enrollment conditions.
+
+[Register Interest]
+
+Frequently Asked Questions
+Do I need prior experience?
+See the prerequisites above. Requirements vary by program.
+
+Will I complete a project?
+Project requirements will be specified in the course syllabus.
+
+Will I receive a certificate?
+If a completion certificate is offered, eligibility and completion requirements will be communicated before enrollment.
+
+Will this course guarantee employment?
+No. The course is intended to support learning and skill development. Employment outcomes depend on many factors and are not guaranteed.
+
+============================================================
+8. BOOT CAMPS AND WORKSHOPS
+============================================================
+
+PAGE TITLE:
+Technology Boot Camps & Workshops
+
+HEADLINE:
+Focused Learning. Practical Experience. Real Projects.
+
+SST Education Trust aims to organize focused educational programs that help learners explore technologies, strengthen their fundamentals, and practice new skills in a supportive learning environment.
+
+PROPOSED BOOT CAMPS
+
+Python for Beginners
+Learn programming fundamentals, write simple programs, solve problems, and build a small application.
+
+Build Your First Website
+Explore HTML, CSS, JavaScript, and responsive design while creating a personal or project website.
+
+Introduction to Generative AI
+Understand generative AI, experiment with prompting, explore practical applications, and learn about limitations, privacy, and responsible use.
+
+React.js Fundamentals
+Learn components, state, hooks, and API integration while building a small frontend application.
+
+Java Programming Essentials
+Understand object-oriented programming, collections, exception handling, and application structure.
+
+Cloud Fundamentals
+Explore cloud computing, security, storage, networking, and deployment fundamentals.
+
+Git and GitHub Workshop
+Practice version control, repositories, commits, branches, collaboration, and pull requests.
+
+Introduction to DevOps
+Discover development workflows, containers, CI/CD, automated testing, and deployment fundamentals.
+
+Build and Deploy a Project
+Work through a guided project combining programming, version control, testing, and deployment.
+
+WORKSHOP FORMATS
+- Introductory sessions
+- Weekend workshops
+- Short intensive boot camps
+- Multi-session practical training
+- Project-building events
+- Coding challenges and demonstrations
+
+WHAT PARTICIPANTS CAN EXPECT
+Each workshop will have a defined learning objective, published schedule, required equipment, and participation conditions. Activities may include demonstrations, guided exercises, practical tasks, discussions, and project presentations.
+
+UPCOMING EVENT TEMPLATE
+Event title: [Event Name]
+Date: [Confirmed Date]
+Time and time zone: [Confirmed Time]
+Location: [Confirmed Venue or Online Platform]
+Eligibility: [Target Audience]
+Participation fee: [Free or Confirmed Fee]
+Registration deadline: [Confirmed Date]
+Accessibility/contact: [Details]
+[Register for the Event]
+
+Event registrations should open only after schedule, delivery arrangements, and participation conditions are confirmed.
+
+============================================================
+9. FREE EDUCATION
+============================================================
+
+PAGE TITLE:
+Free Technology Education
+
+HEADLINE:
+Learning Opportunities Should Not Depend Only on Financial Means
+
+SST Education Trust aims to expand access to education through selected free learning activities and community-oriented educational programs.
+
+We recognize that learners may face financial, geographical, or other barriers to accessing structured technology education. Our aim is to explore practical ways to make learning more accessible.
+
+PROPOSED FREE LEARNING INITIATIVES
+
+Free Introductory Workshops
+Short sessions introducing programming, AI, web development, cloud computing, and digital literacy.
+
+Community Learning Sessions
+Educational activities that encourage learners to ask questions, practice concepts, and exchange knowledge.
+
+Open Educational Resources
+Where available, learning materials, tutorials, exercises, and project guides that learners can use for independent study.
+
+Sponsored Learning Opportunities
+Free places in selected courses when supported by donations, grants, sponsors, or other lawful funding arrangements.
+
+Digital Literacy Awareness
+Activities that help learners develop basic digital skills and understand online safety and responsible technology use.
+
+WHO CAN PARTICIPATE?
+Eligibility depends on the specific initiative. Some workshops may be open to all learners, while sponsored programs may prioritize applicants who meet published eligibility criteria.
+
+HOW ARE FREE PROGRAMS SUPPORTED?
+Free educational activities may be supported through eligible donations, grants, sponsorships, volunteer contributions, educational partnerships, or resources allocated by the Trust.
+
+The availability of free programs will depend on funding, trainers, infrastructure, and operational capacity.
+
+HOW TO PARTICIPATE
+Visit the Programs section to see currently available activities, or contact us to express interest in future free workshops.
+
+Important: Free participation is not guaranteed for every course. Eligibility, selection, schedules, and available places will be communicated for each initiative.
+
+[Explore Free Programs] [Contact Us]
+
+============================================================
+10. SCHOLARSHIPS AND LEARNING ASSISTANCE
+============================================================
+
+PAGE TITLE:
+Scholarships and Learning Assistance
+
+HEADLINE:
+Helping Learners Access Educational Opportunities
+
+SST Education Trust aims to explore scholarship and financial-assistance opportunities for learners who face financial barriers to education.
+
+Our intention is to help eligible learners access selected training programs, educational resources, and practical learning opportunities when funding is available.
+
+TYPES OF ASSISTANCE WE MAY OFFER
+
+Full Fee Support
+Coverage of the eligible program fee for selected applicants, subject to available funding.
+
+Partial Fee Assistance
+A reduction in the eligible program fee.
+
+Sponsored Course Seats
+Participation funded by an approved sponsor or educational partner.
+
+Learning Resources
+Support with approved educational materials or other learning-related costs where the program permits.
+
+ELIGIBILITY
+Criteria will be defined for each scholarship and may consider:
+- Financial need
+- Interest in the subject
+- Readiness to participate
+- Relevant educational background where necessary
+- Availability of sponsored places
+- Additional published program requirements
+
+APPLICATION PROCESS
+1. Review the scholarship announcement and eligibility requirements.
+2. Complete the application form.
+3. Provide only the information and supporting documents requested.
+4. Participate in an interview or assessment if required and disclosed in advance.
+5. Receive a decision through the official contact channel.
+
+FAIRNESS AND PRIVACY
+Applications will be assessed according to published criteria and available resources. Personal information submitted for assessment will be handled according to the applicable privacy notice and legal requirements.
+
+IMPORTANT INFORMATION
+Scholarships are not automatically available for every course. Applications do not guarantee selection, and no scholarship should be treated as confirmed until official written approval is provided.
+
+Current scholarship availability: [Insert verified open opportunities, eligibility, deadlines, and contact information.]
+[Apply for Learning Assistance]
+
+============================================================
+11. OUR IMPACT
+============================================================
+
+PAGE TITLE:
+Our Impact
+
+HEADLINE:
+Creating Opportunities Through Learning
+
+At SST Education Trust, we believe educational impact should be measured through meaningful participation, learning progress, practical work, and the opportunities created for learners.
+
+Our aim is to build an education-focused community that values both the quality of learning and the responsible use of resources.
+
+HOW WE AIM TO MAKE A DIFFERENCE
+
+Access to Education
+Expand opportunities to participate in technology education and digital literacy initiatives.
+
+Practical Skill Development
+Help learners develop knowledge and apply it through exercises, assignments, and projects.
+
+Community Participation
+Encourage educators, professionals, volunteers, and institutions to contribute to learning initiatives.
+
+Educational Resources
+Create and share useful materials that support structured and independent learning.
+
+Inclusion
+Explore ways to support learners who face financial or other barriers to accessing education.
+
+MEASURING OUR PROGRESS
+We aim to track indicators such as:
+- Number of learners participating
+- Programs and workshops conducted
+- Course completion rates
+- Projects completed by learners
+- Free and sponsored learning opportunities delivered
+- Scholarships or fee assistance awarded
+- Volunteers and mentors engaged
+- Educational partnerships established
+
+TRANSPARENCY IN REPORTING
+We will publish impact figures and program updates when reliable records are available. Reports will distinguish between planned activities, activities completed, and outcomes actually measured. We will not publish invented learner counts, unsupported success rates, or unverified testimonials.
+
+OUR JOURNEY
+Current stage: [Describe actual establishment and operational status.]
+Programs conducted: [Insert verified program details.]
+Learners reached: [Insert verified figure and reporting period, when available.]
+Community partnerships: [Insert confirmed partners and nature of each collaboration.]
+Latest report: [Add link when a verified report is published.]
+
+============================================================
+12. GET INVOLVED
+============================================================
+
+PAGE TITLE:
+Get Involved with SST Education Trust
+
+HEADLINE:
+Your Knowledge Can Create Opportunities
+
+Education becomes more powerful when people share what they know and help others learn.
+
+SST Education Trust welcomes interest from individuals and organizations who want to contribute to education, technology awareness, practical skill development, and community learning.
+
+VOLUNTEER WITH US
+Volunteers may be able to contribute to:
+- Educational event coordination
+- Student and learner engagement
+- Learning material preparation
+- Community outreach
+- Workshop administration
+- Digital content and website support
+- Program documentation
+
+Roles, responsibilities, eligibility, and time commitments will be discussed before participation.
+
+BECOME A TRAINER OR MENTOR
+If you have experience in programming, AI, web development, cloud computing, software engineering, or another relevant field, you may be able to contribute by teaching, mentoring, reviewing projects, or supporting workshops.
+
+Please share your technical background, relevant experience, preferred topics, availability, and the type of contribution you wish to make.
+
+BECOME AN EDUCATIONAL PARTNER
+We welcome inquiries from schools, colleges, universities, community organizations, professional groups, and other suitable institutions interested in educational collaboration.
+
+Possible activities include workshops, learning events, educational resource sharing, student projects, and sponsored training programs.
+
+SUPPORT OUR MISSION
+Where legally permitted, supporters may contribute through approved financial or in-kind arrangements to help sustain educational activities. Details about contributions, permitted payment methods, and any applicable tax treatment will be communicated accurately.
+
+JOIN AS A LEARNER
+Check the prerequisites for each course and choose a program suited to your current knowledge.
+
+INTEREST FORM FIELDS
+- Full name
+- Email address
+- Phone number (optional)
+- Area of interest
+- Relevant experience, if applicable
+- Preferred mode of participation
+- Message
+- Privacy notice acknowledgement, where appropriate
+
+Submitting an inquiry does not automatically create a volunteer appointment, employment relationship, partnership, or confirmed program enrollment. Any such arrangement will be established separately where appropriate.
+
+============================================================
+13. PARTNERSHIPS AND COLLABORATION
+============================================================
+
+PAGE TITLE:
+Partnerships and Collaboration
+
+HEADLINE:
+Working Together to Expand Learning Opportunities
+
+SST Education Trust aims to work with suitable educational institutions, professionals, community organizations, and supporters to promote accessible education and practical skill development.
+
+POTENTIAL AREAS OF COLLABORATION
+
+Schools and Colleges
+Explore introductory technology sessions, workshops, coding events, digital literacy activities, and other suitable educational programs.
+
+Technology Professionals
+Invite qualified professionals to contribute as speakers, mentors, trainers, or project reviewers.
+
+Educational Organizations
+Explore joint educational activities, learning resource development, and community outreach.
+
+Corporate and Industry Partners
+Discuss suitable sponsorships, educational support, technology awareness initiatives, and other lawful collaborations.
+
+Community Organizations
+Explore opportunities to reach learners who may face barriers to accessing education.
+
+Sponsors and Grant Providers
+Discuss funding arrangements for eligible educational programs, scholarships, learning resources, and community initiatives.
+
+HOW PARTNERSHIP INQUIRIES WORK
+1. Submit your organization's details and area of interest.
+2. Describe the educational opportunity or collaboration you propose.
+3. Discuss intended participants, objectives, resources, and responsibilities.
+4. Review required agreements, approvals, and compliance conditions.
+5. Proceed only after the arrangement has been appropriately approved and documented.
+
+OUR APPROACH
+We aim to establish partnerships consistent with our educational objectives, ethical principles, governance requirements, and available capacity. No partnership, sponsorship, institutional approval, or funding relationship will be represented as confirmed until formally established.
+
+Partnership inquiries: [Official Email Address]
+[Propose a Partnership]
+
+============================================================
+14. DONATIONS AND SUPPORT
+============================================================
+
+IMPORTANT:
+Publish an active donation appeal or payment instructions only after confirming the Trust's legal eligibility, bank/payment arrangements, accounting processes, and any applicable regulatory requirements. Do not promise tax deductions unless the relevant approval and conditions are verified.
+
+PAGE TITLE:
+Support Education. Create Opportunities.
+
+HEADLINE:
+Help Make Learning More Accessible
+
+Education can open doors to knowledge, skills, and new possibilities. SST Education Trust aims to develop learning opportunities that benefit individuals and communities.
+
+Where the Trust is legally eligible and appropriately equipped to receive contributions, financial and in-kind support may help sustain educational activities and approved charitable objectives.
+
+HOW SUPPORT MAY HELP
+
+Free Educational Workshops
+Learning sessions that introduce learners to programming, digital skills, and emerging technologies.
+
+Scholarships and Fee Assistance
+Eligible educational support for learners facing financial barriers.
+
+Learning Resources
+Educational materials, software, equipment, and other resources required for program delivery.
+
+Technology Infrastructure
+Appropriate computing resources, connectivity, hosting, and educational tools.
+
+Community Learning Programs
+Outreach activities and learning opportunities for communities.
+
+Educational Development
+Curriculum development, trainer support, and practical learning activities.
+
+The actual allocation of funds will be governed by the Trust's governing documents, applicable laws, available resources, and any valid restrictions attached to a contribution.
+
+WAYS TO SUPPORT
+- Make an eligible financial contribution through an approved payment method.
+- Sponsor an educational workshop or program under an agreed arrangement.
+- Contribute suitable equipment or learning resources.
+- Offer professional expertise or volunteer support.
+- Explore a formal educational partnership.
+
+TRANSPARENCY AND ACCOUNTABILITY
+We aim to maintain appropriate financial records and communicate how supported educational initiatives are conducted. Where applicable, contribution receipts and supporting documentation will be issued in accordance with relevant requirements.
+
+TAX BENEFITS
+Tax deductions are not automatic. Any statement about tax-deductible donations will be made only after relevant approval, eligibility, and conditions have been verified.
+
+BEFORE YOU CONTRIBUTE
+Please review the Trust's verified legal identity, contribution terms, available payment channels, and applicable policies before making a payment.
+
+Legal name: [Exact registered legal name]
+Registration details: [Verified details, if applicable]
+Official contact: [Official Email Address]
+Approved contribution channel: [Insert only after legal and operational checks]
+
+[Contact Us About Supporting Education]
+
+SST Education Trust appreciates the interest of everyone who wishes to contribute to educational opportunities. No contribution should be treated as a guarantee of a particular educational outcome.
+
+============================================================
+15. FREQUENTLY ASKED QUESTIONS
+============================================================
+
+ABOUT SST EDUCATION TRUST
+
+What is SST Education Trust?
+SST Education Trust is an education-focused initiative based in Andhra Pradesh, India. Its intended focus includes accessible education, technology training, digital literacy, practical skill development, and lifelong learning. Its legal status and registration details will be published accurately once confirmed.
+
+Where is SST Education Trust based?
+The organization intends to operate in Andhra Pradesh, India. Its official office address will be published when confirmed.
+
+What is the main purpose of SST Education Trust?
+Its purpose is to promote educational opportunities, develop practical skills, encourage technology awareness, and support lifelong learning through appropriate programs and activities.
+
+COURSES AND PROGRAMS
+
+Which courses will be available?
+Planned subject areas include Python, Java, Go, artificial intelligence, Generative AI, React.js, Angular, web development, AWS, Azure, Google Cloud, DevOps, and digital literacy. Only courses confirmed for a particular batch will be listed as open for enrollment.
+
+Can beginners join?
+Beginners may join courses designed for them. Each program will specify prerequisites and intended audience.
+
+Are courses available online?
+Online, in-person, and hybrid formats may be offered depending on the program and resources. Check the individual course page for the confirmed delivery mode.
+
+How long does a course take?
+Duration varies by course and level. The confirmed duration will be displayed on the relevant course page.
+
+Will I receive a certificate?
+Where a certificate is offered, the course page will explain its type and completion requirements. Certificates will not be described as accredited or government-recognized unless appropriate recognition has been established.
+
+Does SST Education Trust guarantee jobs?
+No. Educational programs may help learners develop skills, but employment outcomes depend on individual preparation, experience, market conditions, and other factors.
+
+FREE COURSES AND SCHOLARSHIPS
+
+Are all programs free?
+No. The organization aims to offer a combination of free educational activities and paid training programs. Fees and participation conditions will be disclosed for each program.
+
+Can I apply for a scholarship?
+Scholarship opportunities may be announced when funding is available. Eligibility and application requirements will be published for each opportunity.
+
+Will every scholarship applicant receive assistance?
+No. Selection depends on published criteria, available funding, and the number of eligible applications.
+
+ENROLLMENT AND PAYMENTS
+
+How do I enroll?
+Submit an inquiry or use the enrollment link for the relevant program. You will receive information about schedule, prerequisites, fees, and the enrollment process.
+
+Are fees refundable?
+Refund eligibility depends on the published program-specific refund and cancellation policy. Review it before making a payment.
+
+Can I transfer my enrollment to another batch?
+Any transfer is subject to the relevant program terms, availability, and written confirmation.
+
+VOLUNTEERING AND PARTNERSHIPS
+
+Can I volunteer as a trainer?
+You may submit your experience, areas of expertise, and availability through the volunteer inquiry form. Participation is subject to suitability and confirmation.
+
+Can my institution collaborate with the Trust?
+Educational institutions and other suitable organizations may submit partnership inquiries. Any collaboration is subject to review and formal agreement.
+
+DONATIONS
+
+Can I make a donation?
+Contributions may be accepted through approved channels once the Trust is legally eligible and operationally prepared to receive them. Follow official instructions published on the website.
+
+Are donations tax-deductible?
+Only where relevant approval and legal conditions apply. Do not assume tax deductibility without checking the current status and applicable requirements.
+
+CONTACT AND PRIVACY
+
+How can I contact SST Education Trust?
+Use the contact form or verified email address published on the website.
+
+How is my personal information handled?
+Personal information submitted through the website will be handled according to the published privacy notice and applicable law.
+
+For additional questions, contact [Official Email Address].
+
+============================================================
+16. CONTACT US
+============================================================
+
+PAGE TITLE:
+Contact SST Education Trust
+
+HEADLINE:
+We Would Love to Hear From You
+
+Whether you are interested in learning, volunteering, teaching, collaborating, or supporting educational initiatives, we welcome your inquiry.
+
+GENERAL INQUIRIES
+For questions about educational activities, organizational information, or upcoming programs:
+
+Email: [Official Email Address]
+Phone: [Official Contact Number]
+Office: [Verified Office Address]
+Location: Andhra Pradesh, India
+
+CONTACT FORM FIELDS
+Full Name: [Enter your name]
+Email Address: [Enter your email]
+Phone Number: [Optional]
+I Am Contacting You About:
+- Course enrollment
+- Free education or scholarships
+- Volunteering or mentoring
+- Institutional partnership
+- Donations and educational support
+- General inquiry
+- Other
+
+Subject: [Enter subject]
+Message: [Describe your inquiry]
+
+[ ] I have read the Privacy Notice and understand how my information will be used to respond to my inquiry.
+
+[Submit Inquiry]
+
+OUR RESPONSE
+We aim to respond to inquiries through our official communication channels. Response times may vary depending on the nature and volume of inquiries.
+
+Please do not submit passwords, payment credentials, or unnecessary sensitive personal information through this form.
+
+Organization: SST Education Trust
+Registered legal name: [Insert verified legal name]
+Registration number: [Insert if applicable]
+Registered office: [Insert verified address]
+
+All legal and contact details will be updated as the organization establishes its official operations.
+
+============================================================
+17. PRIVACY NOTICE (DRAFT FOR LEGAL REVIEW)
+============================================================
+
+Effective date: [Date]
+
+SST Education Trust respects the privacy of individuals who visit its website, submit inquiries, register for educational programs, or participate in its activities.
+
+This Privacy Notice explains how we may collect, use, store, and disclose personal information through our website and related educational services. Finalize this notice to match actual forms, hosting, analytics, email services, payment providers, and data-handling practices.
+
+1. INFORMATION WE MAY COLLECT
+Depending on the service used, we may collect:
+- Name and contact details
+- Course inquiries and enrollment information
+- Educational background and relevant program prerequisites
+- Volunteer or partnership inquiry information
+- Scholarship application information where a scholarship program is available
+- Messages and communications submitted to us
+- Technical information collected through website logs or analytics, where enabled
+
+We will seek to collect only information reasonably required for the relevant purpose.
+
+2. HOW WE USE INFORMATION
+Information may be used to:
+- Respond to inquiries
+- Process program applications and enrollment
+- Communicate course schedules and updates
+- Assess scholarship applications where applicable
+- Coordinate volunteers and educational partnerships
+- Maintain appropriate administrative and financial records
+- Protect website security and prevent misuse
+- Meet applicable legal obligations
+
+3. SHARING OF INFORMATION
+We do not intend to sell personal information. Information may be shared with authorized service providers, such as website hosting, email, registration, or payment providers, where required to operate the relevant service. Information may also be disclosed where legally required or otherwise permitted by applicable law.
+
+Any sharing will be subject to appropriate safeguards and applicable requirements.
+
+4. DATA SECURITY AND RETENTION
+We will take reasonable measures appropriate to our operations to protect personal information from unauthorized access, misuse, alteration, or disclosure.
+
+Information will be retained for as long as reasonably necessary for the purpose for which it was collected, applicable recordkeeping requirements, and resolution of relevant disputes or obligations.
+
+5. COOKIES AND ANALYTICS
+If cookies, analytics, or similar technologies are used, the website will explain their purpose and provide applicable controls or notices where required. The final notice must reflect the actual technologies deployed.
+
+6. YOUR CHOICES AND RIGHTS
+Subject to applicable law, individuals may have rights concerning access to, correction of, or deletion of personal information, withdrawal of consent where relevant, and grievance handling.
+
+Requests can be submitted to [Privacy Contact Email]. Requests will be assessed and handled in accordance with applicable legal requirements and legitimate recordkeeping obligations.
+
+7. CHILDREN AND YOUNG LEARNERS
+Where programs involve children, appropriate safeguards will be implemented and parental or guardian authorization obtained where required. Forms for children will collect only information appropriate to the program and necessary for participation.
+
+8. THIRD-PARTY SERVICES
+The website may link to external websites or services. Their privacy practices are governed by their own policies.
+
+9. CHANGES TO THIS NOTICE
+We may update this Privacy Notice as our website, educational activities, or legal requirements change. The latest version will be published with its effective date.
+
+10. CONTACT
+Privacy inquiries:
+SST Education Trust
+[Official Postal Address]
+[Privacy Contact Email]
+
+Legal review is required to ensure this notice reflects the actual practices and applicable Indian privacy law.
+
+============================================================
+18. WEBSITE TERMS AND CONDITIONS
+============================================================
+
+Effective date: [Date]
+
+Welcome to the website of SST Education Trust. By accessing or using this website, you agree to these Terms and Conditions. If you do not agree, please discontinue use of the website.
+
+1. WEBSITE PURPOSE
+This website provides information about educational initiatives, proposed and available programs, workshops, community activities, volunteering, and organizational activities. Information about future programs is indicative until relevant details are confirmed.
+
+2. ACCURACY OF INFORMATION
+We aim to maintain accurate and current information. Course schedules, availability, curricula, fees, trainers, and program details may change. Final confirmed terms will be communicated through the official course page or enrollment documentation.
+
+3. EDUCATIONAL CONTENT
+Website materials are provided for general educational and informational purposes. Unless otherwise stated, materials do not constitute professional, legal, financial, or employment advice. Learners are responsible for using their judgment when applying educational information.
+
+4. PROGRAM ENROLLMENT
+Enrollment is subject to applicable program requirements, eligibility conditions, available places, payment terms, and confirmation process. An inquiry or application does not guarantee admission.
+
+5. ACCEPTABLE USE
+Users must not:
+- Use the website for unlawful activities
+- Attempt unauthorized access to systems or accounts
+- Upload malicious code or harmful content
+- Misuse forms or communication channels
+- Infringe intellectual property rights
+- Submit false or misleading information
+
+6. INTELLECTUAL PROPERTY
+Website content, branding, original educational materials, and other protected assets belong to SST Education Trust or their respective rights holders, as applicable. Users may not reproduce, redistribute, or commercially exploit protected material without permission, except where permitted by law or an applicable license. Third-party names and trademarks remain the property of their respective owners.
+
+7. THIRD-PARTY LINKS
+External links may be provided for convenience or educational reference. We do not automatically endorse or control third-party services.
+
+8. LIMITATION OF LIABILITY
+To the extent permitted by applicable law, SST Education Trust will not be responsible for losses arising from circumstances beyond its reasonable control or reliance on incomplete or outdated website information. Nothing in these Terms excludes liability that cannot lawfully be excluded.
+
+9. CHANGES
+We may modify website content, program information, or these Terms when necessary. Updated Terms will be published with an effective date.
+
+10. GOVERNING LAW
+These Terms are subject to applicable Indian law. Any jurisdiction or dispute-resolution provisions should be finalized with legal advice and in light of the Trust's actual operating arrangements.
+
+11. CONTACT
+[Official Email Address]
+SST Education Trust
+[Verified Address, Andhra Pradesh, India]
+
+Have these Terms reviewed before publication.
+
+============================================================
+19. ENROLLMENT, CANCELLATION AND REFUND POLICY
+============================================================
+
+Effective date: [Date]
+
+This policy explains proposed enrollment, cancellation, and refund arrangements for educational programs offered by SST Education Trust. The final policy must match the actual enrollment system, fee structure, and applicable consumer protection requirements.
+
+1. ENROLLMENT
+Participants should review the course description, prerequisites, schedule, delivery format, fee, and completion requirements before enrolling. Enrollment is confirmed only after stated requirements have been met and written confirmation provided.
+
+2. PROGRAM FEES
+The applicable fee and inclusions will be disclosed before payment. Additional costs, such as required software, examination fees, or external certification charges, will be identified where applicable.
+
+3. PARTICIPANT CANCELLATION
+Participants wishing to cancel should contact [Program Support Email] and provide their enrollment reference. Refund eligibility and any permitted deductions will be determined according to published terms for that program and applicable law.
+
+Program-specific cancellation window: [Insert confirmed period.]
+Refund processing period: [Insert confirmed period.]
+
+4. PROGRAM CANCELLATION BY THE TRUST
+If SST Education Trust cancels a paid program, affected participants will be informed and offered the applicable refund or alternative arrangements in accordance with published terms and applicable law.
+
+5. SCHEDULE CHANGES
+If a schedule or delivery arrangement changes, participants will be notified through the registered communication channel. Available rescheduling or refund options will be communicated according to program terms.
+
+6. SCHOLARSHIPS AND SPONSORED PLACES
+Scholarship and sponsored places are governed by their published eligibility and participation conditions. Decisions, cancellations, and replacement of sponsored participants will follow the relevant program rules.
+
+7. FREE PROGRAMS
+Free programs may have registration, attendance, and cancellation requirements to allocate limited places fairly. Any charges or financial conditions will be disclosed before registration.
+
+8. CERTIFICATES AND COMPLETION
+Certificates, where offered, are subject to published completion requirements. Refund eligibility is determined by the applicable terms and law.
+
+9. CONTACT
+[Program Support Email]
+SST Education Trust
+[Verified Address]
+
+Complete the bracketed terms and obtain legal review before accepting payments.
+
+============================================================
+20. DONATION AND CONTRIBUTION POLICY
+============================================================
+
+Effective date: [Date]
+
+Publish this policy and accept contributions only after confirming the Trust's legal eligibility, bank/payment arrangements, accounting processes, and applicable regulatory requirements.
+
+1. PURPOSE
+SST Education Trust aims to use eligible contributions to support its approved educational and charitable objectives, subject to governing documents and applicable law.
+
+2. ACCEPTANCE OF CONTRIBUTIONS
+Contributions will be accepted only through approved channels and when the Trust is legally and operationally eligible to receive them. The Trust may decline or return contributions where required by law, where the source or conditions are unsuitable, or where acceptance conflicts with its governing documents.
+
+3. USE OF CONTRIBUTIONS
+Contributions may support approved educational activities, learning resources, scholarships, workshops, and other authorized objectives. Restricted contributions will be handled according to agreed conditions where lawful and operationally feasible.
+
+4. RECEIPTS AND TAX TREATMENT
+Receipts will be issued as applicable and supported by appropriate records. A receipt does not itself establish eligibility for a tax deduction. Tax-benefit statements will be made only where relevant approvals and legal conditions have been verified.
+
+5. REFUNDS
+Mistaken payments, duplicate payments, and other refund requests will be assessed under applicable terms and law. Payment-provider charges and relevant conditions will be communicated where applicable.
+
+6. TRANSPARENCY
+The Trust aims to maintain appropriate records of contributions and their use and to provide relevant information through reporting and governance processes.
+
+7. CONTACT
+[Official Email Address]
+Registered legal name: [Verified legal name]
+Registration details: [Verified details]
+Approved payment details: [Insert only after verification]
+
+============================================================
+21. LEARNER CODE OF CONDUCT AND SAFEGUARDING
+============================================================
+
+SST Education Trust aims to foster a safe, respectful, inclusive, and constructive learning environment.
+
+All learners, trainers, mentors, volunteers, and other participants are expected to act responsibly and treat others with dignity.
+
+EXPECTED CONDUCT
+Participants should:
+- Respect other learners, trainers, volunteers, and staff.
+- Communicate constructively and avoid harassment, bullying, discrimination, and intimidation.
+- Respect intellectual property and acknowledge sources.
+- Use technology and AI tools responsibly.
+- Protect passwords, accounts, personal information, and confidential materials.
+- Follow safety rules for online and in-person learning environments.
+- Avoid cheating, plagiarism, and misrepresentation of project work.
+- Report concerns through the appropriate official channel.
+
+TRAINER AND MENTOR RESPONSIBILITIES
+Trainers and mentors are expected to maintain professional boundaries, provide respectful instruction, communicate program requirements clearly, and handle learner information responsibly.
+
+CHILDREN AND YOUNG LEARNERS
+For programs involving minors, appropriate parental or guardian consent, supervision, communication practices, photography permissions, and safeguarding measures will be established according to the program and applicable law.
+
+REPORTING CONCERNS
+Participants may report a concern to [Designated Contact or Safeguarding Email]. Reports will be handled with appropriate care, confidentiality where feasible, and action consistent with the seriousness of the concern and applicable requirements.
+
+CONSEQUENCES
+Serious or repeated misconduct may result in warnings, restrictions, removal from a learning activity, or other appropriate action, subject to applicable policies and law.
+
+============================================================
+22. ADDITIONAL PAGES TO CONSIDER
+============================================================
+
+Trainers
+Publish verified biographies, expertise, and teaching responsibilities only with the person's permission.
+
+News and Events
+Publish announcements, workshops, and verified program updates.
+
+Learning Resources
+Provide tutorials, guides, sample projects, and educational articles. Ensure copyright and licensing permissions are respected.
+
+Gallery
+Use approved photographs of actual activities with appropriate consent and permissions, particularly for minors.
+
+Annual Reports
+Publish verified activity reports and relevant financial disclosures after they have been prepared and approved.
+
+Grievance Redressal
+Provide verified contact details and the process for submitting and handling complaints.
+
+Accessibility Statement
+Describe accessibility features and provide a channel for reporting barriers. Do not claim compliance with a standard unless assessed.
+
+============================================================
+23. WEBSITE DESIGN DIRECTION
+============================================================
+
+Suggested visual direction:
+- Primary color: deep navy blue
+- Secondary color: teal
+- Background: white or light neutral
+- Text: dark charcoal for readability
+- Typography: clear sans-serif fonts
+- Layout: responsive, mobile-first, uncluttered
+- Images: authentic educational settings; obtain permissions for identifiable people
+- Icons: simple, consistent education and technology icons
+- Buttons: clear labels such as “Explore Courses,” “Register Interest,” and “Contact Us”
+
+Suggested homepage section order:
+1. Header and navigation
+2. Hero headline and call to action
+3. About SST Education Trust
+4. Learning categories
+5. Free and paid learning explanation
+6. Featured courses
+7. Boot camps and workshops
+8. Scholarship information, if available
+9. Learning approach
+10. Verified impact and activity updates
+11. Volunteer and partnership invitation
+12. Contact section
+13. Footer with policies and verified legal details
+
+Avoid:
+- Fake learner counts, testimonials, trainer profiles, or partner logos
+- Claims of government recognition or accreditation without evidence
+- Job guarantees or unsupported placement rates
+- Donation/tax-benefit claims without verified eligibility
+- Fake event dates, fees, or course availability
+- Payment links before accounts and policies are properly configured
+
+============================================================
+24. LEGAL STATUS WORDING AND FUTURE SECTION 8 COMPANY
+============================================================
+
+Use only wording that accurately reflects the Trust's current status.
+
+If the trust deed has not yet been executed and registration has not been completed:
+“SST Education Trust is a proposed education-focused charitable initiative. Its legal establishment and operational arrangements are in progress.”
+Use this only if it accurately describes the current situation.
+
+If the trust has been created but its registration status or applicable formalities need careful description:
+“SST Education Trust is established under its trust deed dated [date]. Registration and other legal particulars: [insert verified details and describe the status accurately after professional review].”
+Use only after confirming the correct legal description with an Indian professional.
+
+If registration is completed:
+“SST Education Trust is a public charitable trust established under [verified governing instrument and applicable details]. Registered details: [authority, number, date, address, as applicable].”
+Publish only after verifying the deed, registration documents, and correct wording.
+
+Do not use “government-approved,” “government-recognized,” “accredited,” “tax-exempt,” “80G approved,” or “donations are tax-deductible” unless each specific claim is true and supported by current documentation.
+
+FUTURE SECTION 8 COMPANY
+If the founders later establish a separate Section 8 company under the Companies Act, 2013, it will be a separate legal entity with its own incorporation documents, governance, records, accounts, contracts, and compliance obligations. Do not imply that the Trust and a future Section 8 company are the same entity or that one automatically inherits the other's approvals, assets, contracts, tax status, or registration.
+
+If both entities later exist, identify the exact entity responsible for each course, payment, donation, contract, website notice, and activity. Any transfer, collaboration, shared branding, or resource arrangement should be documented and reviewed for legal, tax, accounting, and governance implications.
+
+Suggested placeholder if a future company is genuinely being considered:
+“The Trust may evaluate additional lawful organizational structures in the future. Any separate entity will be identified distinctly and will operate under its own applicable legal and governance requirements.”
+Do not publish this unless it reflects the Trust's actual plans.
+
+This section is general drafting guidance, not legal advice. Get advice from an Indian lawyer and chartered accountant on the trust deed, Andhra Pradesh requirements, charitable purpose, income-tax compliance, donations, paid educational activities, and any future Section 8 company.
+
+============================================================
+25. PRE-LAUNCH TRUST AND WEBSITE CHECKLIST
+============================================================
+
+ORGANIZATION AND LEGAL
+[ ] Confirm exact name and check name/trademark conflicts.
+[ ] Finalize and execute the trust deed with professional advice.
+[ ] Confirm applicable trust establishment/registration procedures in Andhra Pradesh.
+[ ] Confirm registered address and contact details.
+[ ] Confirm trustees, powers, governance, recordkeeping and decision processes.
+[ ] Obtain professional advice on tax registration/approvals and applicable filings.
+[ ] Do not advertise tax-deductible donations unless the relevant approval is in force and applies.
+[ ] Review whether planned paid courses and other activities are consistent with the deed and applicable law.
+[ ] If a future Section 8 company is considered, plan for distinct legal identity and separate records.
+
+FINANCE AND DONATIONS
+[ ] Establish appropriate banking and accounting arrangements.
+[ ] Confirm which payment methods are approved.
+[ ] Prepare contribution receipts and recordkeeping processes where applicable.
+[ ] Finalize donation and refund terms.
+[ ] Do not publish payment details before verification.
+[ ] Document sponsorships and restricted contributions appropriately.
+
+PROGRAMS
+[ ] Confirm which courses will actually launch.
+[ ] Finalize curriculum, trainer, prerequisites, duration, schedule, delivery mode and fees.
+[ ] Confirm software licenses and cloud account spending controls.
+[ ] State certificate requirements accurately.
+[ ] Avoid job guarantees or unsupported placement claims.
+[ ] Prepare enrollment and attendance processes.
+[ ] Confirm child safeguarding arrangements if minors may participate.
+
+WEBSITE AND PRIVACY
+[ ] Replace all square-bracket placeholders.
+[ ] Verify the legal identity wording.
+[ ] Finalize privacy notice based on actual data flows and service providers.
+[ ] Test forms, email delivery, security, backups and access controls.
+[ ] Collect only necessary personal information.
+[ ] Add suitable consent and safeguarding processes for minors where required.
+[ ] Finalize terms, cancellation/refund policy, code of conduct and grievance contact.
+[ ] Check accessibility and mobile responsiveness.
+[ ] Obtain permission for images, testimonials, logos, and third-party materials.
+[ ] Add a clear contact channel and respond to inquiries reliably.
+
+CONTENT QUALITY
+[ ] Remove any program that is not planned or available.
+[ ] Verify all facts, numbers, dates, addresses, partners and credentials.
+[ ] Label proposed programs as proposed.
+[ ] Publish only real testimonials and measured impact.
+[ ] Check spelling, grammar, links, and navigation.
+[ ] Set page titles and meta descriptions.
+[ ] Test the full enrollment journey before launch.
+
+============================================================
+26. FINAL EDITORIAL NOTES
+============================================================
+
+This content package is designed as a comprehensive first draft for the SST Education Trust website. Before publishing:
+- Replace placeholders.
+- Confirm every statement against actual records and operational plans.
+- Choose only the pages and programs that are ready.
+- Obtain legal/accounting review for legal-status, donation, tax, privacy, paid-program, and Section 8-related wording.
+- Keep proposed activities distinct from activities already delivered.
+- Review policies periodically as the organization grows.
+
+Suggested short footer disclaimer:
+“Program availability, schedules, fees, eligibility and completion requirements vary by program and will be communicated before enrollment. Legal and registration details are published only as verified. Nothing on this website should be read as a guarantee of employment, accreditation, or tax benefits.”
+
+END OF DOCUMENT
+
+================================================================================
+ADDENDUM: OPERATIONAL, LEGAL, GOVERNANCE, AND LEARNER-EXPERIENCE ENHANCEMENTS
+================================================================================
+
+PURPOSE AND PUBLICATION RULE
+This addendum extends the main content package. It provides publishable draft language
+where the facts can be verified, plus implementation notes where the Trust must first
+make a decision or complete a legal/technical step. Do not publish a future capability
+as if it is already available. Replace every bracketed field and have Indian legal,
+tax, accounting, safeguarding, and technology advisers review the relevant sections.
+
+A. TAX STATUS AND DONOR INFORMATION: 12A/12AB AND 80G
+----------------------------------------------------
+
+Recommended page: Donations > Tax and Compliance Status
+Recommended placement: A short status panel on the Donations page, linking to this
+full explainer.
+
+INTERNAL SETUP CHECKLIST — DO NOT PUBLISH UNTIL VERIFIED
+- Legal name of the entity receiving donations: [exact name from deed/registration]
+- PAN: [insert only if appropriate and approved for public display]
+- Trust/public-trust registration details, where applicable: [authority, number, date]
+- Income-tax charitable registration status: [not applied / application submitted /
+  provisionally registered / registered / renewal or revalidation pending / other]
+- Relevant statutory provision and order details: [verify current law and certificate]
+- 80G approval status: [not applied / application submitted / provisionally approved /
+  approved / renewal or revalidation pending / other]
+- Effective date, expiry/revalidation date, Unique Registration Number and order details:
+  [copy accurately from the official order]
+- Person responsible for tax and donor compliance: [name/role/email]
+- Date this status was last verified: [date]
+
+WEBSITE COPY — SELECT ONLY THE VERSION THAT IS TRUE
+
+Version 1: No approval has been granted
+“Tax-benefit status: SST Education Trust has not confirmed an active approval that
+would allow donors to claim a deduction for donations to the Trust. Please do not
+assume that a donation is tax-deductible. We will update this page if the Trust receives
+the relevant approval. For questions, contact [official email].”
+
+Version 2: Application submitted, decision pending
+“Tax-benefit status: SST Education Trust has submitted an application relating to
+[accurate registration/approval category] on [date], reference [reference number, if
+approved for publication]. The application is pending as of [date last checked].
+An application is not an approval, and donors should not assume that their donations
+qualify for a tax deduction while the application is pending.”
+
+Version 3: Approval granted and verified
+“Tax-benefit status: [Exact legal entity name] holds [exact registration/approval type]
+under [relevant statutory provision], reference/URN [number], effective from [date]
+until [date or applicable validity description]. Eligibility depends on the applicable
+law, the approval’s validity and the nature/date of the donation. Please retain your
+receipt and contact [official email] if you need documentation.”
+
+Important drafting notes:
+- Do not use “12A approved” or “80G certified” unless the applicable order and current
+  status have been checked. Use the terminology shown on the actual order and current
+  official portal; tax laws, form names, and transitional provisions can change.
+- A tax registration/approval application is not a promise of approval or a guaranteed
+  completion timeline. Do not publish an estimated approval date as a commitment.
+- Do not promise that every donation, donor, payment method, or donation purpose is
+  deductible. Donor eligibility and deduction limits may depend on law and circumstances.
+- Only issue donation certificates, acknowledgements, or statutory donor forms that the
+  Trust is legally entitled and operationally able to issue. Maintain donor records and
+  file required statements/forms on time with a qualified tax professional.
+- Publish the date the status was last checked. Link to the relevant official government
+  record or provide a verified document only where appropriate and safe.
+- Keep the status of the Trust separate from the status of any future Section 8 company.
+  One entity's registration, PAN, bank account, tax approval, or donor eligibility must
+  not be presented as belonging to the other entity.
+
+B. FOREIGN CONTRIBUTIONS AND FCRA
+---------------------------------
+
+Recommended page: Donations > International Giving and Foreign Grants
+
+WEBSITE COPY
+“International donations and grants are subject to Indian law. SST Education Trust
+will accept foreign contribution only if, and when, the Trust is legally authorised to
+receive it and all applicable requirements have been met. Until our status and receiving
+arrangements are confirmed, please contact [official email] before attempting to send
+funds from outside India. We cannot advise donors to route foreign contributions through
+another person or organisation to bypass legal requirements.”
+
+Internal controls before accepting any foreign contribution:
+- Obtain advice from a lawyer or compliance professional experienced in the Foreign
+  Contribution (Regulation) Act and applicable rules.
+- Verify whether registration or prior permission is required and actually in force for
+  the receiving legal entity and intended donor/project.
+- Confirm the required designated bank-account arrangements and permitted use of funds.
+- Establish donor screening, source-of-funds records, accounting codes, utilisation
+  tracking, reporting, renewal and change-notification procedures as applicable.
+- Do not assume that a domestic donation, grant, payment processor, crowdfunding route,
+  foreign-origin payment, or intermediary is automatically outside FCRA requirements.
+- Do not describe the Trust as “FCRA eligible” without a legal basis. Eligibility to apply
+  is not permission to receive foreign contribution.
+- If the Trust is not authorised to receive a proposed contribution, decline or pause the
+  transaction and obtain professional advice. Do not suggest a workaround.
+
+C. CORPORATE CSR AND INDUSTRY PARTNERSHIPS
+------------------------------------------
+
+Recommended page: Partnerships > Corporate CSR and Industry Partnerships
+
+WEBSITE COPY
+“Partnering for Social Impact Through Technology
+
+SST Education Trust welcomes conversations with companies, foundations, employers, and
+technology professionals interested in expanding access to education and digital skills.
+Potential collaborations may include sponsored learning cohorts, scholarships, digital
+literacy programmes, accessible computer labs, career-readiness workshops, mentor
+volunteering, and community technology projects.
+
+We work with prospective partners to define the target community, learning outcomes,
+delivery plan, budget, safeguards, measurement approach, reporting schedule, and
+responsibilities before a programme begins.
+
+CSR treatment depends on the company’s obligations and approved CSR policy, the project’s
+fit with applicable law, and the eligibility and compliance status of the implementing
+entity. Contact [official partnership email] to discuss a proposal. A conversation or
+proposal does not itself establish CSR eligibility or guarantee acceptance of funding.”
+
+Potential partner pathways:
+- Programme sponsorship: support a defined cohort, boot camp, or digital-literacy project.
+- Scholarships: fund course access, devices, connectivity, or learner support using
+  transparent eligibility criteria.
+- Digital labs: support equipment, connectivity, accessibility, maintenance, and training.
+- Employee volunteering: offer structured mentoring, project reviews, mock interviews,
+  or career talks, subject to learner-safety and privacy procedures.
+- Curriculum and industry input: advise on relevant skills without implying that a
+  partner endorses or accredits the Trust's courses.
+- Outcome-based programme support: agree on realistic, measurable outputs and outcomes,
+  reporting responsibilities, and an evaluation method.
+
+CSR READINESS CHECKLIST — INTERNAL, NOT A CLAIM OF CURRENT ELIGIBILITY
+Before presenting SST Education Trust as an eligible CSR implementing agency, have a
+qualified adviser confirm the current Companies Act and CSR Rules requirements for the
+specific arrangement. Depending on the entity and route, requirements may include a
+qualifying legal form, relevant income-tax registrations/approvals, registration on the
+MCA21 portal using the applicable CSR-1 process, an established track record, or other
+conditions and exceptions. Requirements differ by category; do not treat a checklist as
+a universal substitute for legal review.
+
+Prepare a partner due-diligence folder with:
+- Trust deed and applicable registration evidence
+- PAN and bank-account confirmation in the exact legal name
+- Current tax registration/approval orders and validity details, where applicable
+- CSR-1 acknowledgement/registration evidence, if applicable and obtained
+- Trustee/governance details and conflict-of-interest policy
+- Audited financial statements and annual reports, where available/required
+- Programme proposal, budget, implementation schedule and risk register
+- Child/young-person safeguarding, anti-harassment, privacy and grievance procedures
+- Monitoring, evaluation and reporting plan
+- Procurement, expense approval and documentation procedures
+- Written agreement covering scope, fund use, reporting, assets, publicity, and termination
+
+Suggested enquiry form fields:
+Organisation name; contact person and role; official work email; partnership type;
+geographic reach; intended beneficiary group; indicative budget range; preferred timeline;
+reporting requirements; and a short description of the proposed collaboration.
+Collect only the information needed to assess the enquiry and publish a privacy notice.
+
+D. STUDENT PORTAL AND LEARNING MANAGEMENT SYSTEM (LMS)
+------------------------------------------------------
+
+Recommended navigation item: Learner Portal
+Use a real, tested portal URL only. Do not invent a login link or imply a platform exists
+before it has been configured.
+
+If a portal is not yet available, publish:
+“Learner portal: We are preparing the online learning-access process. Enrolled learners
+will receive instructions through the official contact channel once their programme’s
+learning platform is ready. Please do not share passwords or sensitive documents through
+unverified links.”
+
+If an LMS is active and tested, publish:
+“Your Learning Hub
+Learners enrolled in programmes that use our learning platform can access course
+materials, session information, assignments, assessments, project guidance, and programme
+announcements through the learner portal. Access and features may vary by course. Login:
+[verified portal URL]. For access support, contact [support email].”
+
+Only list features that have actually been implemented:
+- Course modules and downloadable learning resources
+- Recorded sessions, where recording and consent arrangements permit
+- Assignment submissions and instructor feedback
+- Quizzes and progress tracking
+- Project briefs, rubrics, and submission links
+- Announcements and support requests
+- Mentor office hours or moderated peer-learning channels, if scheduled and staffed
+
+Portal launch checklist:
+- Use HTTPS and a maintained, supported LMS.
+- Set role-based permissions for learners, instructors, administrators, and partners.
+- Use unique accounts and secure password-reset procedures; enable stronger authentication
+  for administrators where possible.
+- Publish a privacy notice that explains what learner data is collected, why, who can
+  access it, retention, deletion/contact procedures, and relevant service providers.
+- Test enrolment, login, accessibility, mobile layouts, password reset, course access,
+  assignment submission, and account closure.
+- Provide a non-digital support route for learners who have connectivity or accessibility
+  barriers.
+- Do not upload learner records to public folders or share class lists publicly.
+- Set a process for removing access after a programme ends and responding to security
+  incidents.
+- Assign a named operational owner and support response target: [owner/target].
+
+E. ASSESSMENT, ATTENDANCE, AND CERTIFICATION POLICY
+---------------------------------------------------
+
+Recommended page: Learner Policies > Assessment and Certificates
+
+POLICY STATUS NOTE
+The Trust must approve and adopt the final policy before publishing it as binding.
+The thresholds below are suggested starting points, not existing promises. Choose course-
+appropriate rules, publish them before enrolment, and apply them consistently.
+
+PROPOSED POLICY TEMPLATE
+“Assessment and Certificates
+
+Each programme will state its learning outcomes, assessment components, pass requirements,
+attendance expectations, submission deadlines, and certificate type before enrolment.
+Requirements may vary by course and delivery format.
+
+Depending on the programme, assessment may include:
+- Short quizzes or knowledge checks
+- Practical coding or lab exercises
+- Assignments and demonstrations
+- A capstone project or portfolio
+- Participation in required practical sessions
+- A final assessment or project presentation
+
+Suggested starting standard for a structured instructor-led cohort:
+- Attendance: at least [80%] of scheduled live sessions, if attendance is relevant to the
+  course. Publish any excused-absence or make-up rules.
+- Assessment completion: submit all mandatory assessments or approved alternatives.
+- Passing threshold: at least [70%] overall, with any essential safety/security or
+  practical components passed separately where relevant.
+- Capstone: meet the published rubric for functionality, explanation, originality,
+  documentation, and responsible use of third-party code or AI tools.
+- Academic integrity: submit work honestly, credit external sources, and follow the
+  course’s collaboration and AI-use rules.
+
+Certificate categories:
+1. Certificate of Participation: confirms participation only and does not necessarily
+   certify mastery.
+2. Certificate of Completion: confirms the published attendance and completion criteria
+   were met.
+3. Certificate of Achievement: may be used only if defined assessment criteria were met.
+
+A certificate issued by SST Education Trust is not, by itself, a university degree,
+government licence, statutory professional qualification, or third-party certification.
+Do not imply external accreditation unless it has been formally verified.
+
+Learners may request a correction to a certificate or ask for a review of an assessment
+by contacting [official email] within [number] days of the result. The Trust will explain
+the review process and expected response time.”
+
+Before launch, decide:
+- Whether attendance is mandatory and what counts as attendance
+- The treatment of connectivity issues, illness, disability accommodations, and make-up work
+- Grading weights and pass thresholds by course
+- Late-submission, resubmission, and reassessment rules
+- Group-project contribution and peer-assessment rules
+- Academic misconduct, plagiarism, copied code, and AI-assistance rules
+- Certificate issue timelines, verification method, corrections, and replacement fees (if any)
+- Appeal/review route and responsible reviewer
+
+F. LEARNER TECHNICAL REQUIREMENTS
+---------------------------------
+
+Recommended page: Courses > Technical Requirements
+Publish course-specific requirements on each course page. The following are indicative
+planning guidance only; verify against the actual tools and versions used.
+
+General setup:
+- A laptop or desktop is strongly recommended for programming and cloud labs.
+- Indicative baseline: a reasonably modern 64-bit computer, 8 GB RAM, stable internet,
+  updated browser, keyboard, and sufficient free storage. Some IDEs, containers, virtual
+  machines, and local AI tools may require 16 GB RAM or more.
+- Windows, macOS, or a supported Linux distribution may work, but exact support depends
+  on the course tools. A phone alone may not be sufficient for full development exercises.
+- Learners should have permission to install required software on their device.
+- Provide a list of required software, supported versions, approximate download sizes,
+  and a pre-course setup guide.
+- Where a learner cannot meet the requirements, state whether a browser-based environment,
+  lab computer, loan device, or alternative activity is available. Do not promise one unless
+  it exists.
+
+Course-specific notes:
+- Python/Java/Go: list the supported runtime or JDK version, editor/IDE options, terminal
+  requirements, and whether installation is required.
+- React/Angular/full-stack: list the supported Node.js version, package manager, browser,
+  code editor, and whether a local backend/database is required.
+- AWS/Azure/Google Cloud: state whether learners need their own account, whether a sandbox
+  is provided, and what billing safeguards apply. Never imply that cloud usage is free
+  unless the current service terms confirm it.
+- DevOps/CI/CD: disclose whether Docker, virtualisation, Git, a Linux shell, or a cloud
+  account is required; note possible hardware and permissions limitations.
+- AI/Generative AI: specify whether exercises use hosted APIs, paid services, local models,
+  or browser tools; explain account, usage-limit, privacy, and possible-cost considerations.
+
+Cloud cost and safety warning:
+“Cloud platforms and AI services may charge for usage. Free tiers, credits, quotas, and
+service terms can change and may require a payment method. Learners must review the
+provider’s current terms, set budget alerts where available, avoid publishing credentials,
+and shut down or delete billable resources after labs. SST Education Trust will clearly
+state whether it provides a managed sandbox or expects learners to use their own account.”
+
+G. LEADERSHIP, GOVERNANCE, AND CONFLICTS OF INTEREST
+----------------------------------------------------
+
+Recommended page: About Us > Leadership and Governance
+
+WEBSITE COPY TEMPLATE — PUBLISH ONLY AFTER VERIFICATION
+“Leadership and Governance
+
+SST Education Trust is governed in accordance with its trust deed and applicable law.
+This page identifies the people and governance arrangements that have been verified and
+approved for public disclosure.
+
+Trustees
+- [Full name] — [official trustee role] — [short, verified professional biography]
+- [Full name] — [official trustee role] — [short, verified professional biography]
+
+Advisers (if formally appointed)
+- [Full name] — [advisory role and scope] — [short, verified biography]
+
+Governance documents
+- [Trust deed summary or public extract, if approved for release]
+- [Conflict-of-interest policy]
+- [Financial oversight / approval policy]
+- [Safeguarding and grievance policy]
+- [Annual reports and financial disclosures, when available]
+
+Trustee and adviser profiles are published with appropriate consent. An adviser is not a
+trustee, employee, auditor, legal representative, or official spokesperson unless that
+role has been formally assigned.”
+
+Governance controls to establish:
+- Keep the legal register of trustees and their appointment/cessation dates up to date.
+- Document meetings, decisions, delegated authority, and approval limits.
+- Adopt a conflict-of-interest declaration and recusal process.
+- Separate payment initiation, approval, and reconciliation where practical.
+- Maintain a complaints/grievance channel and a process for safeguarding concerns.
+- Record how related-party transactions, procurement, and expenses are reviewed.
+- Obtain permission before publishing personal biographies, photographs, or contact details.
+- Publish only documents that have been reviewed for confidential, personal, bank, tax,
+  signature, and other sensitive information.
+
+H. ANNUAL REPORTS AND FINANCIAL ACCOUNTABILITY
+---------------------------------------------
+
+Recommended page: Transparency > Reports and Financial Accountability
+
+WEBSITE COPY
+“Transparency and Accountability
+
+We aim to report clearly on the programmes delivered, learners reached, resources used,
+and lessons learned. Reports will be published when they have been completed, reviewed,
+and approved for public release. We will not present estimates as audited figures or
+publish impact statistics without a documented basis.
+
+Available reports
+- Annual activity report: [financial year / report link]
+- Audited financial statements: [financial year / report link, if completed and approved]
+- Programme and impact summary: [period / report link]
+- CSR project reports: [project / period / report link, where applicable]
+- Key policies: [approved policy links]
+- Previous reports: [archive link]
+
+For questions about a published report, contact [official email].”
+
+Internal reporting framework:
+- Define the financial year and reporting period consistently.
+- Reconcile donation receipts, programme expenses, restricted grants, and bank statements.
+- Keep original invoices, vouchers, contracts, approvals, and donor restrictions.
+- Use an independent qualified professional for audit/review where required or appropriate.
+- Label each document accurately: draft, management report, audited statement, or final report.
+- Publish only after approval and redaction of private information.
+- Maintain a corrections policy: identify the report/version, explain material corrections,
+  and record the update date.
+- For impact reporting, define each metric (for example, enrolment, completion, attendance,
+  project completion, or placement) and explain the period and source. Distinguish outputs
+  from longer-term outcomes.
+
+Suggested impact dashboard fields (only once data exists):
+Reporting period; programme; applications; enrolled learners; active learners; completions;
+completion rate and denominator; scholarship count and criteria; projects completed;
+volunteer hours and method of calculation; learner feedback response rate; and follow-up
+outcomes with sample size and collection date. Do not publish names or identifiable learner
+data without a lawful basis and appropriate permission.
+
+I. LEARNER STORIES, ALUMNI, AND PROJECT SHOWCASE
+------------------------------------------------
+
+Recommended pages: Our Impact > Learner Stories; Resources > Project Showcase
+
+LEARNER STORY INTRODUCTION
+“Learner Stories
+
+Every learner’s journey is different. With the learner’s permission, we share selected
+stories about projects, skills developed, learning milestones, and next steps. Stories
+reflect individual experiences and are not guarantees of employment, income, admission,
+or other results.”
+
+STORY TEMPLATE
+- Learner display name: [approved name or pseudonym]
+- Programme and cohort: [verified details]
+- Starting point / learning goal: [learner-approved wording]
+- Project or milestone: [description and link]
+- Skills practised: [verified list]
+- Learner’s own reflection: [approved quote, reviewed by learner]
+- Next step: [verified and approved information]
+- Consent date and permitted channels: [internal record; do not publish]
+- Disclosure: “This is an individual experience and does not guarantee similar outcomes.”
+
+PROJECT SHOWCASE INTRODUCTION
+“Built by Our Learners
+
+Explore projects created as part of SST Education Trust learning programmes. Each entry
+identifies the project’s creators (as they have consented to be credited), the problem it
+addresses, the technologies used, and what the team learned. Project inclusion is not an
+endorsement of every external library, service, or claim made by the project author.”
+
+PROJECT ENTRY TEMPLATE
+Project title; short description; course/cohort; learner-approved display names; technologies;
+repository/demo link; accessibility notes; known limitations; third-party assets and licences;
+whether the project is a learning prototype; and the date last checked.
+
+Consent and safety:
+- Obtain clear permission for stories, photos, quotes, names, videos, and external links.
+- For minors, use a legally appropriate guardian-consent and learner-assent process.
+- Explain where content will appear and how a learner can request correction or removal.
+- Do not publish grades, contact details, personal hardship details, private messages, or
+  sensitive background information without a strong lawful basis and specific consent.
+- Review project links for secrets, API keys, personal data, harmful content, malware, and
+  licence issues before featuring them.
+- Do not fabricate testimonials, imply typical outcomes from exceptional cases, or purchase
+  positive reviews.
+
+J. PEER LEARNING COMMUNITY AND MODERATION
+-----------------------------------------
+
+Recommended page: Learner Community
+
+WEBSITE COPY — ADAPT TO THE ACTUAL CHANNEL
+“Learner Community
+
+For programmes that include a peer-learning space, enrolled learners may be invited to
+use [verified platform or discussion-board link] for course questions, study groups,
+project collaboration, and announcements. Access rules depend on the programme. The
+community is moderated under our learner code of conduct.
+
+Participation in a third-party platform may require a separate account and is subject to
+that provider’s terms and privacy practices. Do not post passwords, API keys, personal
+documents, private contact details, or another person’s information. Report harassment,
+unsafe conduct, or suspicious links to [moderation contact].”
+
+Before launch:
+- Select and test the platform; assign primary and backup moderators.
+- Publish community rules, reporting routes, escalation steps, and expected response times.
+- Explain that the channel is not an emergency service and define monitored hours.
+- Set rules for direct messaging, recording, screenshots, sharing learner work, and external
+  recruitment or promotional posts.
+- Protect minors and vulnerable learners; define adult/mentor boundaries and escalation.
+- Create procedures for warnings, temporary restrictions, removal, appeals, and evidence
+  retention that are proportionate and documented.
+- Review third-party privacy settings and data-processing implications.
+- Do not announce Discord, Slack, or another platform until the Trust has actually chosen,
+  configured, and staffed it.
+
+K. CONTACT, SUPPORT, AND COMPLAINTS ROUTING
+-------------------------------------------
+
+Add separate routes or clear routing instructions for:
+- Course/enrolment support: [email]
+- Learner portal/technical support: [email]
+- Scholarships: [email]
+- Partnerships/CSR: [email]
+- Donations and receipts: [email]
+- Privacy/data requests: [email]
+- Safeguarding or serious conduct concerns: [restricted-access contact]
+- General enquiries: [email]
+
+Publish only monitored addresses. Set realistic response targets, such as “We aim to respond
+within [X] working days,” only after staffing is arranged. A sensitive safeguarding contact
+should not simply route to a public group inbox without access controls.
+
+L. IMPLEMENTATION PRIORITY CHECKLIST
+------------------------------------
+
+PRIORITY 1 — LEGAL AND FINANCIAL CONTROLS
+[ ] Confirm the Trust’s exact legal name, registration position, trust deed, PAN, bank account,
+    authorised signatories, and governing body.
+[ ] Confirm the applicable current income-tax law, registration/approval status, and wording
+    for all public tax claims with a qualified Indian tax professional.
+[ ] Establish a documented FCRA decision before soliciting or accepting foreign contributions.
+[ ] Determine CSR implementing-agency status for each proposed route; do not market eligibility
+    until verified.
+[ ] Approve donation receipt, restricted-grant, refund, record-retention, and expense controls.
+[ ] Review all public policies and legal pages with an Indian lawyer/accountant as appropriate.
+
+PRIORITY 2 — LEARNER DELIVERY
+[ ] Decide whether an LMS will be used; select, configure, test, and link the actual platform.
+[ ] Approve assessment, attendance, certificate, appeals, and academic-integrity rules.
+[ ] Publish course-specific software, hardware, cloud-cost, accessibility, and support details.
+[ ] Set up privacy-conscious learner registration, access management, and support workflows.
+[ ] Establish the community platform and moderation/safeguarding procedures before inviting users.
+
+PRIORITY 3 — GOVERNANCE AND TRUST
+[ ] Verify trustee/adviser names, roles, bios, and consent for public display.
+[ ] Approve conflict-of-interest, grievance, safeguarding, financial approval, and privacy policies.
+[ ] Define annual-report and impact-measurement responsibilities.
+[ ] Create a reports page and publish only approved, accurate documents.
+[ ] Build consent forms and review steps for learner stories and project showcases.
+
+PRIORITY 4 — QUALITY ASSURANCE
+[ ] Test every form, email, portal link, donation link, and download.
+[ ] Test the site on mobile, keyboard-only navigation, and common screen readers.
+[ ] Check contrast, headings, alt text, captions, language clarity, and page speed.
+[ ] Verify all claims about scholarships, certificates, partners, placements, accreditation,
+    learner numbers, outcomes, and services against records.
+[ ] Add a page owner and “last reviewed” date to policies that require periodic review.
+[ ] Keep a change log and remove outdated status claims promptly.
+
+M. OFFICIAL REFERENCE STARTING POINTS
+-------------------------------------
+
+Use official sources and current professional advice to verify requirements before acting.
+These links are research starting points, not a legal opinion and not a complete compliance
+checklist. Government forms, terminology, and statutory provisions may change.
+
+- Income Tax Department, Form 10A information:
+  https://www.incometax.gov.in/iec/foportal/node/287
+- Income Tax Department, forms and filing guidance:
+  https://www.incometax.gov.in/iec/foportal/downloads/income-tax-forms
+- Ministry of Corporate Affairs, CSR FAQ:
+  https://www.mca.gov.in/Ministry/pdf/FAQ_CSR.pdf
+- Ministry of Home Affairs, FCRA portal:
+  https://fcraonline.nic.in/
+
+FINAL CAUTION
+This package is website copy and operational planning material, not a determination that
+SST Education Trust is registered, tax-approved, FCRA-authorised, CSR-eligible, accredited,
+or already operating any of the proposed systems. Only publish verified status, working
+links, adopted policies, actual programmes, and supported claims. Seek qualified Indian
+legal, tax, accounting, safeguarding, and technical advice before launch.
