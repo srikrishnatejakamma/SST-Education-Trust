@@ -1,6 +1,6 @@
 # Sri Surya Teja Foundation website (proposed name)
 
-Responsive, single-page website built with React, Vite, and Tailwind CSS. The public-facing name and content follow the supplied proposed Foundation package. Confirm the final registered legal name before publication.
+Responsive React website built with Vite, Tailwind CSS, and React Router. The public-facing name and content follow the supplied proposed Foundation package. Confirm the final registered legal name before publication.
 
 The site covers programming, full-stack development, databases, cloud, DevOps, AI, scholarships, rural digital education, industry and cloud partnerships, resources, impact, governance, and contact. Proposed activities and course outlines are identified as proposals. No existing cloud-provider partnership, registration or tax status, impact result, active scholarship, or payment arrangement is claimed. Policy content is draft material and requires review before adoption or publication as binding policy.
 
@@ -26,6 +26,12 @@ npm run preview
 ```
 
 The production files are generated in `dist/`. The preview command serves that production build locally.
+
+## Pages
+
+The site uses client-side routes. Main paths include `/`, `/about-us`, `/vision-mission`, `/programs`, `/programs/course-catalogue`, `/programs/boot-camps`, `/scholarships`, `/digital-education`, `/ai-emerging-technologies`, `/partnerships`, `/impact`, `/resources`, `/volunteer`, `/governance-transparency`, `/donate`, `/contact`, `/faq`, and `/policies`.
+
+For production hosting, configure the web server to serve `index.html` for unknown application paths so direct visits and refreshes on routes work.
 
 ## Headless API setup
 
