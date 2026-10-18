@@ -5,7 +5,7 @@ function PolicyItem({ title, children }) {
 export default function PolicyHubSection() {
   return (
     <section className="policy-hub section-pad" id="policies"><div className="container">
-      <div className="section-heading"><div><p className="section-kicker">POLICIES &amp; LEARNER INFORMATION</p><h2>Clear expectations.<br/><em>Safer learning.</em></h2></div><p>Draft policy information from the content package. These drafts are not binding policies; they must be finalized to match actual services, approved by the Trust, and reviewed as appropriate before publication.</p></div>
+      <div className="section-heading"><div><p className="section-kicker">POLICIES &amp; LEARNER INFORMATION</p><h2>Clear expectations.<br/><em>Safer learning.</em></h2></div><p>Draft policy information from the content package. These drafts are not binding policies; they must be finalized to match actual services, approved by the Foundation’s governing body, and reviewed as appropriate before publication.</p></div>
       <div className="policy-list">
         <PolicyItem title="Privacy notice — draft for review">
           <p>This draft concerns information that may be collected when visitors submit inquiries, register for programs, volunteer, or participate in activities. The final notice must describe actual website forms, hosting, analytics, email, registration, and payment providers.</p>

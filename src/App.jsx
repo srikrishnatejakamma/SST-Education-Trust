@@ -3,6 +3,7 @@ import AccessSection from "./components/AccessSection.jsx";
 import DetailedProgramsSection from "./components/DetailedProgramsSection.jsx";
 import ContactSection from "./components/ContactSection.jsx";
 import { FAQSection, PrivacySection } from "./components/FAQSection.jsx";
+import { AISection, GovernanceSection, ResourcesSection, RuralEducationSection } from "./components/FoundationSections.jsx";
 import HeroSection from "./components/HeroSection.jsx";
 import InvolvedSection from "./components/InvolvedSection.jsx";
 import LearningApproachSection from "./components/LearningApproachSection.jsx";
@@ -24,16 +25,20 @@ export default function App() {
         <ObjectivesSection />
         <ProgramsSection />
         <DetailedProgramsSection />
+        <AISection />
         <BootcampsSection />
         <LearningApproachSection />
         <AccessSection />
         <FreeEducationSection />
+        <RuralEducationSection />
         <ScholarshipsSection />
         <MissionSection />
         <ImpactSection />
         <InvolvedSection />
         <PartnershipsSection />
         <SupportSection />
+        <ResourcesSection />
+        <GovernanceSection />
         <ContactSection />
         <FAQSection />
         <PolicyHubSection />

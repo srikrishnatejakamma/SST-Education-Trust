@@ -1,7 +1,7 @@
 const involvementOptions = [
-  ["↗", "01", "Learn with us", "Ask about learning areas and upcoming opportunities.", "For learners", "Course enrollment"],
-  ["✳", "02", "Share your skills", "Explore volunteering, teaching, and mentorship.", "For educators", "Volunteering or mentoring"],
-  ["⌘", "03", "Build together", "Start a conversation about educational collaboration.", "For partners", "Institutional partnership"],
+  ["↗", "01", "Learn with us", "Ask about programming, databases, cloud, AI, and digital learning.", "For learners", "Course enrollment"],
+  ["✳", "02", "Share your skills", "Teach, mentor projects, review portfolios, or support digital literacy.", "For educators", "Volunteering or mentoring"],
+  ["⌘", "03", "Build together", "Explore college, industry, technology, and community collaboration.", "For partners", "Institutional partnership"],
 ];
 
 export default function InvolvedSection() {

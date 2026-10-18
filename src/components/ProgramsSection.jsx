@@ -2,11 +2,13 @@ import { useEffect, useState } from "react";
 import { headlessApi } from "../api.js";
 
 const learningAreas = [
-  { icon: "✳", tone: "icon-ai", index: "THINK", title: "Artificial intelligence", description: "Explore AI concepts, practical applications, and responsible use." },
-  { icon: "{ }", tone: "icon-code", index: "MAKE", title: "Programming", description: "Build foundations in Python, Java, Go, and problem-solving." },
-  { icon: "⌘", tone: "icon-web", index: "CREATE", title: "Web development", description: "Learn the building blocks of modern websites and applications." },
-  { icon: "☁", tone: "icon-cloud", index: "CONNECT", title: "Cloud & DevOps", description: "Discover cloud fundamentals, software delivery, and deployment." },
-  { icon: "◉", tone: "icon-digital", index: "NAVIGATE", title: "Digital literacy", description: "Develop essential digital skills and online safety awareness." },
+  { icon: "{ }", tone: "icon-code", index: "START", title: "Programming foundations", description: "Logic, algorithms, Java, Python, JavaScript, SQL, Git, and Linux." },
+  { icon: "⌘", tone: "icon-web", index: "BUILD", title: "Full-stack development", description: "Frontend frameworks, backend services, APIs, and application projects." },
+  { icon: "◉", tone: "icon-digital", index: "DATA", title: "Database engineering", description: "SQL, data modelling, transactions, indexing, and query optimization." },
+  { icon: "☁", tone: "icon-cloud", index: "DEPLOY", title: "Cloud computing", description: "Explore AWS, Microsoft Azure, and Google Cloud fundamentals." },
+  { icon: "↗", tone: "icon-ai", index: "DELIVER", title: "DevOps & cloud-native", description: "Git collaboration, CI/CD, containers, Kubernetes, and IaC." },
+  { icon: "✳", tone: "icon-ai", index: "EXPLORE", title: "AI & data", description: "Machine learning, Generative AI, RAG, AI agents, and responsible use." },
+  { icon: "＋", tone: "icon-web", index: "GROW", title: "Career readiness", description: "Portfolios, interviews, communication, system design, and teamwork." },
 ];
 
 function ProgramCard({ program, index }) {

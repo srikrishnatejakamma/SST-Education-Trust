@@ -1,8 +1,8 @@
-# SST Education Trust website
+# Sri Surya Teja Foundation website (proposed name)
 
-Responsive, single-page website built with React, Vite, and Tailwind CSS. The page content follows `Requirment.txt` and includes the proposed course catalog, workshops, access and scholarship information, impact measures, partnership guidance, FAQs, and draft learner policies.
+Responsive, single-page website built with React, Vite, and Tailwind CSS. The public-facing name and content follow the supplied proposed Foundation package. Confirm the final registered legal name before publication.
 
-Proposed programs are identified as proposals. The site does not invent legal registration details, contact information, impact figures, confirmed schedules, or payment arrangements. Policy content is a draft and needs review before adoption or publication as binding policy.
+The site covers programming, full-stack development, databases, cloud, DevOps, AI, scholarships, rural digital education, industry and cloud partnerships, resources, impact, governance, and contact. Proposed activities and course outlines are identified as proposals. No existing cloud-provider partnership, registration or tax status, impact result, active scholarship, or payment arrangement is claimed. Policy content is draft material and requires review before adoption or publication as binding policy.
 
 ## Requirements
 
@@ -64,6 +64,7 @@ The form sends the following JSON body to the inquiries route:
     "name": "Learner name",
     "email": "learner@example.org",
     "phone": "",
+    "organization": "",
     "topic": "Course enrollment",
     "message": "I would like to learn more.",
     "privacyConsent": true,

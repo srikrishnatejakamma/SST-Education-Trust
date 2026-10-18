@@ -18,7 +18,7 @@ const objectives = [
 export default function ObjectivesSection() {
   return (
     <section className="objectives-section section-pad" id="objectives"><div className="container">
-      <div className="section-heading"><div><p className="section-kicker">MISSION, VISION &amp; OBJECTIVES</p><h2>A direction for<br/><em>lifelong learning.</em></h2></div><p>Our vision is a society where people can access education, develop relevant skills, and use knowledge to contribute positively. These objectives describe the intended educational focus and must remain consistent with the Trust’s verified governing documents.</p></div>
+      <div className="section-heading"><div><p className="section-kicker">MISSION, VISION &amp; OBJECTIVES</p><h2>A direction for<br/><em>lifelong learning.</em></h2></div><p>Our proposed vision is an inclusive society where learners, regardless of economic background or location, can access quality education, technology skills, and opportunities for growth. These objectives describe the intended focus and must align with verified governing documents.</p></div>
       <div className="objectives-grid">{objectives.map((objective, index) => <article key={objective}><span>{String(index + 1).padStart(2, "0")}</span><p>{objective}</p></article>)}</div>
     </div></section>
   );

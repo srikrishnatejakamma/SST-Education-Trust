@@ -6,6 +6,9 @@ const topics = [
   "Free education or scholarships",
   "Volunteering or mentoring",
   "Institutional partnership",
+  "Cloud or technology partnership",
+  "CSR or program sponsorship",
+  "Rural digital education",
   "Donations and educational support",
   "General inquiry",
   "Other",
@@ -27,6 +30,7 @@ export default function ContactSection() {
       name: String(values.get("name")).trim(),
       email: String(values.get("email")).trim(),
       phone: String(values.get("phone") || "").trim(),
+      organization: String(values.get("organization") || "").trim(),
       topic: String(values.get("topic")),
       message: String(values.get("message")).trim(),
       privacyConsent: values.get("privacyConsent") === "on",
@@ -56,7 +60,7 @@ export default function ContactSection() {
           <p className="section-kicker">LET’S TALK</p><h2>Good things<br/>start with a <em>hello.</em></h2>
           <p>Whether you’re curious about learning, volunteering, teaching, or collaborating, we’d be glad to hear from you.</p>
           <div className="contact-aside"><span className="contact-aside-icon">↗</span><p>Please don’t include passwords, payment details, or sensitive personal information in your message.</p></div>
-          <p className="contact-location">SST Education Trust <span>Andhra Pradesh, India</span></p>
+          <p className="contact-location">Sri Surya Teja Foundation for Education &amp; Technology <span>Proposed public-facing name · confirm legal name before publication</span></p>
         </div>
 
         <form className="contact-form" onSubmit={handleSubmit}>
@@ -67,6 +71,7 @@ export default function ContactSection() {
             <div><label htmlFor="email">Email address <span>*</span></label><input id="email" name="email" type="email" autoComplete="email" required maxLength="254" placeholder="you@example.com"/></div>
             <div><label htmlFor="phone">Phone <small>optional</small></label><input id="phone" name="phone" type="tel" autoComplete="tel" maxLength="30" placeholder="Your number"/></div>
           </div>
+          <label htmlFor="organization">Organization <small>optional</small></label><input id="organization" name="organization" autoComplete="organization" maxLength="180" placeholder="College, company, or community group"/>
           <label htmlFor="topic">What are you reaching out about? <span>*</span></label>
           <select id="topic" name="topic" required defaultValue=""><option value="">Choose a topic</option>{topics.map((topic) => <option key={topic}>{topic}</option>)}</select>
           <label htmlFor="message">Your message <span>*</span></label>

@@ -17,11 +17,11 @@ export default function HeroSection() {
     <section className="hero section-pad relative" id="home">
       <div className="container hero-grid">
         <div className="hero-copy">
-          <div className="eyebrow"><span className="eyebrow-line"/>A learning community in Andhra Pradesh</div>
-          <h1 className="text-balance">Education opens<br/>up <em>possibility.</em></h1>
-          <p className="hero-lede">We aim to make technology education practical, inclusive, and accessible—so more people can build skills and shape what comes next.</p>
-          <div className="hero-actions"><a className="button button-dark" href="#programs">Explore learning areas <span>↗</span></a><a className="text-link" href="#about">Get to know us <span>↓</span></a></div>
-          <div className="hero-note"><span className="note-dot"/>Programs and schedules are shared when confirmed.</div>
+          <div className="eyebrow"><span className="eyebrow-line"/>Proposed education &amp; technology foundation</div>
+          <h1 className="text-balance">Empowering communities through <em>opportunity.</em></h1>
+          <p className="hero-lede">Sri Surya Teja Foundation for Education &amp; Technology aims to make practical technology education, mentorship, scholarships, and digital learning more accessible.</p>
+          <div className="hero-actions"><a className="button button-dark" href="#programs">Explore programs <span>↗</span></a><a className="text-link" href="#partnerships">Partner with us <span>↓</span></a></div>
+          <div className="hero-note"><span className="note-dot"/>Learn. Build. Innovate. Empower.</div>
         </div>
         <HeroArt />
       </div>
